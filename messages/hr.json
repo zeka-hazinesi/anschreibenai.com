@@ -1,0 +1,103 @@
+{
+  "link": {
+    "title": "Motivacijsko pismo s AI",
+    "instructions": "Molimo unesite poveznicu na oglas za posao.",
+    "inputLabel": "Poveznica na oglas za posao",
+    "proceedAddressButton": "Nastavite na unos adrese",
+    "generateDraft": "Izradi nacrt",
+    "generatePDF": "Izradi PDF",
+    "processing": "Obrada u tijeku...",
+
+    "fromToSectionTitle": "Oglas za posao ➡️ Motivacijsko pismo",
+    "beforeText": "Iz oglasa za posao",
+    "afterText": "Do motivacijskog pisma",
+
+    "comparisonSectionTitle": "Zašto biste trebali koristiti anschreibenAI?",
+    "reason1": "Nema PDF-a ili je loše formatiran (Primjer)",
+    "reason2": "Nema potpisa",
+    "reason3": "Prenose se privatni podaci o adresi",
+    "reason4": "Nije moguće izravno uređivanje",
+    "reason5": "Potrebno iskustvo u korištenju ChatGPT-a",
+    "solution1": "Usklađeno s normom DIN 5008",
+    "solution2": "S potpisom (opcionalno)",
+    "solution3": "Privatni podaci o adresi ne napuštaju preglednik",
+    "solution4": "Nacrt se može uređivati",
+    "solution5": "Dječja igra za korištenje bez unosa naredbi",
+
+    "howToSectionTitle": "Kako funkcionira anschreibenAI?",
+
+    "faqSectionTitle": "Često postavljana pitanja",
+    "question1": "Zašto jednostavno ne koristiti ChatGPT?",
+    "question2": "Što je DIN 5008?",
+    "question3": "Je li anschreibenAI zaista besplatan?",
+    "question4": "Koriste li se moji privatni podaci o adresi?",
+    "question5": "Koji se model koristi?",
+    "question6": "Imam još pitanja!",
+    "answer1": "ChatGPT je izvrstan alat, ali nije prikladan za sve primjene. Posebno nije optimalan za izradu PDF dokumenata. Norma DIN 5008 vrlo je specifična i zahtijeva precizno formatiranje koje ChatGPT ne može uvijek pružiti. S ovom aplikacijom možete biti sigurni da vaši dokumenti zadovoljavaju zahtjeve norme DIN 5008.",
+    "answer2": "DIN 5008 je njemačka norma koja postavlja pravila za pisanje i dizajniranje poslovnih pisama i drugih poslovnih dokumenata. Osigurava jedinstven, profesionalan izgled, npr. u adresiranju, podacima o datumu, isticanjima i formatiranju. U ovoj aplikaciji implementirali smo najvažnija pravila kako biste se mogli usredotočiti na ono što je zaista važno: sadržaj vašeg motivacijskog pisma.",
+    "answer3": "Da, potpuno je besplatan! Nema skrivenih troškova, nema pretplata. Međutim, aplikaciju možete koristiti samo 5 puta dnevno.",
+    "answer4": "Privatni podaci nikada ne napuštaju vaš preglednik. To znači: Ne pohranjujemo nikakve podatke koje unesete u aplikaciju. Podaci o adresi pohranjuju se samo lokalno u vašem pregledniku i ne šalju se na naše poslužitelje. To znači da vaši podaci ostaju sigurni i privatni.",
+    "answer5": "Trenutno koristimo Gemini Flash 2.0 kao umjetnu inteligenciju.",
+    "answer6": "Možete koristiti chat za podršku kako biste postavili dodatna pitanja.",
+
+    "privacyPolicy": "Politika privatnosti",
+    "termsOfUse": "Uvjeti korištenja",
+    "copyright": "Sva prava pridržana"
+  },
+  "address": {
+    "title": "Adresa 🏠",
+    "description": "Molimo unesite podatke o vašoj adresi. Podaci se koriste samo za zaglavlje pisma. Ako ne želite navesti adresu, možete preskočiti ovaj korak.",
+
+    "firstName": "Ime",
+    "lastName": "Prezime",
+    "street": "Ulica",
+    "buildingNumber": "Kućni broj",
+    "postalCode": "Poštanski broj",
+    "city": "Grad",
+    "phone": "Telefon",
+    "email": "E-pošta",
+
+    "trash": "Izbriši",
+    "back": "Natrag",
+    "skip": "Preskoči",
+    "next": "Nastavite na personalizaciju",
+
+    "firstNameError": "Ime mora imati najmanje dva znaka.",
+    "lastNameError": "Prezime mora imati najmanje dva znaka.",
+    "streetError": "Ulica mora imati najmanje dva znaka.",
+    "buildingNumberError": "Kućni broj mora imati najmanje jedan znak.",
+    "postalCodeError": "Poštanski broj mora imati najmanje četiri znaka.",
+    "cityError": "Grad mora imati najmanje dva znaka."
+  },
+  "personal": {
+    "title": "Personalizacija ✏️",
+    "description": "Molimo navedite svoje prednosti i druge posebnosti kako biste motivacijsko pismo učinili zanimljivijim. (opcionalno)",
+    "textareaLabel": "Recite AI što vas čini jedinstvenim.",
+    "textareaBlurred": "- Volontiram u dobrovoljnom vatrogasnom društvu\n- Imam certifikat za Photoshop\n- Imam višegodišnje iskustvo u ugostiteljstvu",
+    "back": "Natrag",
+    "generate": "Izradi nacrt",
+    "loading": "Izrada u tijeku...",
+    "signatureDescription": "Ovdje možete izraditi svoj potpis. (opcionalno)"
+  },
+  "review": {
+    "title": "Pregled 📄",
+    "description": "Evo vašeg personaliziranog motivacijskog pisma. Možete ga jednom pročitati i ako vam se nešto ne sviđa, jednostavno to možete promijeniti prije izrade PDF-a. Ako ste zadovoljni, kliknite na Ispis ili Izradi PDF.",
+    "back": "Natrag",
+    "home": "Na početnu stranicu",
+    "downloadPDF": "Preuzmi PDF",
+    "print": "Ispis",
+    "nameError": "Ime mora imati najmanje dva znaka."
+  },
+  "progress": {
+    "link": "Poveznica",
+    "address": "Adresa",
+    "personal": "Personalizacija",
+    "review": "Pregled"
+  },
+  "settings": {
+    "settingsTitle": "Postavke",
+    "settingsDescription": "Odaberite jezik za svoje motivacijsko pismo.",
+    "languageLabel": "Jezik",
+    "saveButton": "Spremi"
+  }
+}

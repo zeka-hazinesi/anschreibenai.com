@@ -1,0 +1,10 @@
+# Allow all web crawlers
+User-agent: *
+Allow: /
+
+# Allow crawler access to static files
+Allow: /_next/static/
+Allow: /_next/image/
+
+# Sitemap location
+Sitemap: https://anschreibenai.com/sitemap.xml

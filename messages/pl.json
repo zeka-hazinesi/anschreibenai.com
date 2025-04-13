@@ -1,0 +1,103 @@
+{
+  "link": {
+    "title": "List motywacyjny z AI",
+    "instructions": "Wprowadź link do ogłoszenia o pracę.",
+    "inputLabel": "Link do ogłoszenia o pracę",
+    "proceedAddressButton": "Przejdź do wprowadzania adresu",
+    "generateDraft": "Utwórz szkic",
+    "generatePDF": "Utwórz PDF",
+    "processing": "Przetwarzanie...",
+
+    "fromToSectionTitle": "Ogłoszenie o pracę ➡️ List motywacyjny",
+    "beforeText": "Z ogłoszenia o pracę",
+    "afterText": "Do listu motywacyjnego",
+
+    "comparisonSectionTitle": "Dlaczego warto korzystać z anschreibenAI?",
+    "reason1": "Brak lub źle sformatowany PDF (Przykład)",
+    "reason2": "Brak podpisu",
+    "reason3": "Prywatne dane adresowe są przesyłane",
+    "reason4": "Brak możliwości bezpośredniej edycji",
+    "reason5": "Wymagane doświadczenie w korzystaniu z ChatGPT",
+    "solution1": "Zgodny z normą DIN 5008",
+    "solution2": "Z podpisem (opcjonalnie)",
+    "solution3": "Prywatne dane adresowe nie opuszczają przeglądarki",
+    "solution4": "Szkic można edytować",
+    "solution5": "Dziecinnie proste użytkowanie bez wprowadzania poleceń",
+
+    "howToSectionTitle": "Jak działa anschreibenAI?",
+
+    "faqSectionTitle": "Często zadawane pytania",
+    "question1": "Dlaczego nie korzystać po prostu z ChatGPT?",
+    "question2": "Co to jest DIN 5008?",
+    "question3": "Czy anschreibenAI jest naprawdę darmowy?",
+    "question4": "Czy moje prywatne dane adresowe są wykorzystywane?",
+    "question5": "Jaki model jest używany?",
+    "question6": "Mam więcej pytań!",
+    "answer1": "ChatGPT to świetne narzędzie, ale nie jest odpowiednie dla wszystkich zastosowań. Szczególnie do tworzenia dokumentów PDF nie jest optymalne. Norma DIN 5008 jest bardzo szczegółowa i wymaga precyzyjnego formatowania, którego ChatGPT nie zawsze może zapewnić. Dzięki tej aplikacji możesz upewnić się, że Twoje dokumenty spełniają wymagania normy DIN 5008.",
+    "answer2": "DIN 5008 to niemiecka norma, która ustala zasady pisania i projektowania listów biznesowych i innych dokumentów biznesowych. Zapewnia jednolity, profesjonalny wygląd, np. w adresowaniu, informacjach o dacie, wyróżnieniach i formatowaniu. Wdrożyliśmy najważniejsze zasady w tej aplikacji, abyś mógł skoncentrować się na tym, co naprawdę ważne: treści Twojego listu motywacyjnego.",
+    "answer3": "Tak, jest całkowicie darmowy! Bez ukrytych opłat, bez subskrypcji. Możesz jednak korzystać z aplikacji tylko 5 razy dziennie.",
+    "answer4": "Prywatne dane nigdy nie opuszczają Twojej przeglądarki. Oznacza to: Nie przechowujemy żadnych danych, które wprowadzasz do aplikacji. Dane adresowe są przechowywane tylko lokalnie w Twojej przeglądarce i nie są wysyłane na nasze serwery. Oznacza to, że Twoje dane pozostają bezpieczne i prywatne.",
+    "answer5": "Obecnie jako sztuczną inteligencję wykorzystujemy Gemini Flash 2.0.",
+    "answer6": "Możesz skorzystać z czatu wsparcia, aby zadać więcej pytań.",
+
+    "privacyPolicy": "Polityka prywatności",
+    "termsOfUse": "Warunki korzystania",
+    "copyright": "Wszelkie prawa zastrzeżone"
+  },
+  "address": {
+    "title": "Adres 🏠",
+    "description": "Wprowadź swoje dane adresowe. Dane są używane tylko do nagłówka listu. Jeśli nie chcesz podawać adresu, możesz pominąć ten krok.",
+
+    "firstName": "Imię",
+    "lastName": "Nazwisko",
+    "street": "Ulica",
+    "buildingNumber": "Numer domu",
+    "postalCode": "Kod pocztowy",
+    "city": "Miejscowość",
+    "phone": "Telefon",
+    "email": "E-mail",
+
+    "trash": "Usuń",
+    "back": "Wstecz",
+    "skip": "Pomiń",
+    "next": "Przejdź do personalizacji",
+
+    "firstNameError": "Imię musi mieć co najmniej dwa znaki.",
+    "lastNameError": "Nazwisko musi mieć co najmniej dwa znaki.",
+    "streetError": "Ulica musi mieć co najmniej dwa znaki.",
+    "buildingNumberError": "Numer domu musi mieć co najmniej jeden znak.",
+    "postalCodeError": "Kod pocztowy musi mieć co najmniej cztery znaki.",
+    "cityError": "Miejscowość musi mieć co najmniej dwa znaki."
+  },
+  "personal": {
+    "title": "Personalizacja ✏️",
+    "description": "Podaj swoje mocne strony i inne cechy szczególne, aby uczynić list motywacyjny bardziej interesującym. (opcjonalnie)",
+    "textareaLabel": "Powiedz AI, co czyni Cię wyjątkowym.",
+    "textareaBlurred": "- Jestem zaangażowany w ochotniczej straży pożarnej\n- Posiadam certyfikat Photoshop\n- Mam kilkuletnie doświadczenie w gastronomii",
+    "back": "Wstecz",
+    "generate": "Utwórz szkic",
+    "loading": "Tworzenie...",
+    "signatureDescription": "Tutaj możesz utworzyć swój podpis. (opcjonalnie)"
+  },
+  "review": {
+    "title": "Przegląd 📄",
+    "description": "Oto Twój spersonalizowany list motywacyjny. Możesz go raz przeczytać, a jeśli jest coś, co Ci się nie podoba, możesz to łatwo zmienić przed utworzeniem PDF. Jeśli jesteś zadowolony, kliknij Drukuj lub Utwórz PDF.",
+    "back": "Wstecz",
+    "home": "Do strony głównej",
+    "downloadPDF": "Pobierz PDF",
+    "print": "Drukuj",
+    "nameError": "Nazwa musi mieć co najmniej dwa znaki."
+  },
+  "progress": {
+    "link": "Link",
+    "address": "Adres",
+    "personal": "Personalizacja",
+    "review": "Przegląd"
+  },
+  "settings": {
+    "settingsTitle": "Ustawienia",
+    "settingsDescription": "Wybierz język dla swojego listu motywacyjnego.",
+    "languageLabel": "Język",
+    "saveButton": "Zapisz"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "link": {
+    "title": "Lettre de motivation avec AI",
+    "instructions": "Veuillez entrer le lien vers l'offre d'emploi.",
+    "inputLabel": "Lien vers l'offre d'emploi",
+    "proceedAddressButton": "Continuer vers la saisie d'adresse",
+    "generateDraft": "Créer un brouillon",
+    "generatePDF": "Créer un PDF",
+    "processing": "En cours de traitement...",
+
+    "fromToSectionTitle": "Offre d'emploi ➡️ Lettre de motivation",
+    "beforeText": "De l'offre d'emploi",
+    "afterText": "À la lettre de motivation",
+
+    "comparisonSectionTitle": "Pourquoi utiliser anschreibenAI ?",
+    "reason1": "Pas de PDF ou mal formaté (Exemple)",
+    "reason2": "Pas de signature",
+    "reason3": "Les données d'adresse privées sont transmises",
+    "reason4": "Aucune édition directe possible",
+    "reason5": "Expérience nécessaire avec ChatGPT",
+    "solution1": "Conforme à la norme DIN 5008",
+    "solution2": "Avec signature (optionnel)",
+    "solution3": "Les données d'adresse privées ne quittent pas le navigateur",
+    "solution4": "Le brouillon peut être modifié",
+    "solution5": "Utilisation très simple sans saisie de commandes",
+
+    "howToSectionTitle": "Comment fonctionne anschreibenAI ?",
+
+    "faqSectionTitle": "Questions fréquemment posées",
+    "question1": "Pourquoi ne pas simplement utiliser ChatGPT ?",
+    "question2": "Qu'est-ce que DIN 5008 ?",
+    "question3": "anschreibenAI est-il vraiment gratuit ?",
+    "question4": "Mes données d'adresse privées sont-elles utilisées ?",
+    "question5": "Quel modèle est utilisé ?",
+    "question6": "J'ai d'autres questions !",
+    "answer1": "ChatGPT est un outil formidable, mais il n'est pas adapté à toutes les applications. En particulier, il n'est pas optimal pour la création de documents PDF. La norme DIN 5008 est très spécifique et nécessite un formatage précis que ChatGPT ne peut pas toujours fournir. Avec cette application, vous pouvez vous assurer que vos documents répondent aux exigences de la norme DIN 5008.",
+    "answer2": "DIN 5008 est une norme allemande qui établit des règles pour la rédaction et la conception de lettres commerciales et d'autres documents d'affaires. Elle garantit une apparence uniforme et professionnelle, par exemple dans l'adressage, les informations de date, les mises en évidence et le formatage. Nous avons mis en œuvre les règles les plus importantes dans cette application afin que vous puissiez vous concentrer sur ce qui compte vraiment : le contenu de votre lettre de motivation.",
+    "answer3": "Oui, c'est complètement gratuit ! Pas de frais cachés, pas d'abonnements. Cependant, vous ne pouvez utiliser l'application que 5 fois par jour.",
+    "answer4": "Les données privées ne quittent jamais votre navigateur. Cela signifie : Nous ne stockons aucune donnée que vous saisissez dans l'application. Les données d'adresse sont uniquement stockées localement dans votre navigateur et ne sont pas envoyées à nos serveurs. Cela signifie que vos données restent sécurisées et privées.",
+    "answer5": "Nous utilisons actuellement Gemini Flash 2.0 comme intelligence artificielle.",
+    "answer6": "Vous pouvez utiliser le chat de support pour poser d'autres questions.",
+
+    "privacyPolicy": "Politique de confidentialité",
+    "termsOfUse": "Conditions d'utilisation",
+    "copyright": "Tous droits réservés"
+  },
+  "address": {
+    "title": "Adresse 🏠",
+    "description": "Veuillez saisir vos coordonnées. Les données sont uniquement utilisées pour l'en-tête de la lettre. Si vous ne souhaitez pas fournir d'adresse, vous pouvez ignorer cette étape.",
+
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "street": "Rue",
+    "buildingNumber": "Numéro",
+    "postalCode": "Code postal",
+    "city": "Ville",
+    "phone": "Téléphone",
+    "email": "E-mail",
+
+    "trash": "Supprimer",
+    "back": "Retour",
+    "skip": "Ignorer",
+    "next": "Continuer vers la personnalisation",
+
+    "firstNameError": "Le prénom doit comporter au moins deux caractères.",
+    "lastNameError": "Le nom doit comporter au moins deux caractères.",
+    "streetError": "La rue doit comporter au moins deux caractères.",
+    "buildingNumberError": "Le numéro doit comporter au moins un caractère.",
+    "postalCodeError": "Le code postal doit comporter au moins quatre caractères.",
+    "cityError": "La ville doit comporter au moins deux caractères."
+  },
+  "personal": {
+    "title": "Personnalisation ✏️",
+    "description": "Veuillez indiquer vos points forts et autres particularités pour rendre la lettre de motivation plus intéressante. (optionnel)",
+    "textareaLabel": "Dites à l'IA ce qui vous rend unique.",
+    "textareaBlurred": "- Je suis volontaire chez les pompiers\n- Je possède un certificat Photoshop\n- J'ai plusieurs années d'expérience dans la restauration",
+    "back": "Retour",
+    "generate": "Créer un brouillon",
+    "loading": "Création en cours...",
+    "signatureDescription": "Vous pouvez créer votre signature ici. (optionnel)"
+  },
+  "review": {
+    "title": "Révision 📄",
+    "description": "Voici votre lettre de motivation personnalisée. Vous pouvez la lire une fois et si quelque chose ne vous plaît pas, vous pouvez simplement le modifier avant de créer le PDF. Si vous êtes satisfait, cliquez sur Imprimer ou Créer un PDF.",
+    "back": "Retour",
+    "home": "Vers la page d'accueil",
+    "downloadPDF": "Télécharger le PDF",
+    "print": "Imprimer",
+    "nameError": "Le nom doit comporter au moins deux caractères."
+  },
+  "progress": {
+    "link": "Lien",
+    "address": "Adresse",
+    "personal": "Personnalisation",
+    "review": "Révision"
+  },
+  "settings": {
+    "settingsTitle": "Paramètres",
+    "settingsDescription": "Choisissez la langue pour votre lettre de motivation.",
+    "languageLabel": "Langue",
+    "saveButton": "Enregistrer"
+  }
+}

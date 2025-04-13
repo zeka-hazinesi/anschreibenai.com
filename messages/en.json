@@ -1,0 +1,103 @@
+{
+  "link": {
+    "title": "Cover Letter with AI",
+    "instructions": "Please enter the link to the job advertisement.",
+    "inputLabel": "Link to job advertisement",
+    "proceedAddressButton": "Continue to address entry",
+    "generateDraft": "Create draft",
+    "generatePDF": "Create PDF",
+    "processing": "Processing...",
+
+    "fromToSectionTitle": "Job Advertisement ➡️ Motivation Letter",
+    "beforeText": "From the job advertisement",
+    "afterText": "To the motivation letter",
+
+    "comparisonSectionTitle": "Why should you use anschreibenAI?",
+    "reason1": "No or poorly formatted PDF (Example)",
+    "reason2": "No signature",
+    "reason3": "Private address data is transmitted",
+    "reason4": "No direct editing possible",
+    "reason5": "Experience in using ChatGPT necessary",
+    "solution1": "Compliant with DIN 5008",
+    "solution2": "With signature (optional)",
+    "solution3": "Private address data doesn't leave the browser",
+    "solution4": "Draft can be edited",
+    "solution5": "Child's play to use without entering prompts",
+
+    "howToSectionTitle": "How does anschreibenAI work?",
+
+    "faqSectionTitle": "Frequently Asked Questions",
+    "question1": "Why not simply use ChatGPT?",
+    "question2": "What is DIN 5008?",
+    "question3": "Is anschreibenAI really free?",
+    "question4": "Is my private address data used?",
+    "question5": "Which model is used?",
+    "question6": "I have more questions!",
+    "answer1": "ChatGPT is a brilliant tool, but it's not suitable for all applications. It's particularly not optimal for creating PDF documents. The DIN 5008 standard is very specific and requires precise formatting that ChatGPT can't always provide. With this app, you can ensure that your documents meet the requirements of DIN 5008.",
+    "answer2": "DIN 5008 is a German standard that establishes rules for writing and designing business letters and other business documents. It ensures a uniform, professional appearance, e.g. in addressing, date information, highlights and formatting. We have implemented the most important rules in this app so that you can focus on what really matters: the content of your motivation letter.",
+    "answer3": "Yes, it's completely free! No hidden fees, no subscriptions. However, you can only use the app 5 times per day.",
+    "answer4": "The private data never leaves your browser. This means: We don't store any data you enter into the app. The address data is only stored locally in your browser and is not sent to our servers. This means your data remains secure and private.",
+    "answer5": "We currently use Gemini Flash 2.0 as artificial intelligence.",
+    "answer6": "You can use the support chat to ask further questions.",
+
+    "privacyPolicy": "Privacy Policy",
+    "termsOfUse": "Terms of Use",
+    "copyright": "All Rights Reserved"
+  },
+  "address": {
+    "title": "Address 🏠",
+    "description": "Please enter your address details. The data is only used for the letterhead. If you don't want to provide an address, you can skip this step.",
+
+    "firstName": "First Name",
+    "lastName": "Surname",
+    "street": "Street",
+    "buildingNumber": "House Number",
+    "postalCode": "Postcode",
+    "city": "City",
+    "phone": "Telephone",
+    "email": "Email",
+
+    "trash": "Delete",
+    "back": "Back",
+    "skip": "Skip",
+    "next": "Continue to Personalisation",
+
+    "firstNameError": "The first name must be at least two characters long.",
+    "lastNameError": "The surname must be at least two characters long.",
+    "streetError": "The street must be at least two characters long.",
+    "buildingNumberError": "The house number must be at least one character long.",
+    "postalCodeError": "The postcode must be at least four characters long.",
+    "cityError": "The city must be at least two characters long."
+  },
+  "personal": {
+    "title": "Personalisation ✏️",
+    "description": "Please provide your strengths and other special features to make the cover letter more interesting. (optional)",
+    "textareaLabel": "Tell the AI what makes you unique.",
+    "textareaBlurred": "- I volunteer with the Fire Brigade\n- I have a Photoshop certificate\n- I have several years of experience in catering",
+    "back": "Back",
+    "generate": "Create draft",
+    "loading": "Creating...",
+    "signatureDescription": "Here you can create your signature. (optional)"
+  },
+  "review": {
+    "title": "Review 📄",
+    "description": "Here is your personalised motivation letter. You can read through it once, and if there's something you don't like, you can simply change it before creating the PDF. If you're satisfied, click on Print or Create PDF.",
+    "back": "Back",
+    "home": "To the homepage",
+    "downloadPDF": "Download PDF",
+    "print": "Print",
+    "nameError": "The name must be at least two characters long."
+  },
+  "progress": {
+    "link": "Link",
+    "address": "Address",
+    "personal": "Personalisation",
+    "review": "Review"
+  },
+  "settings": {
+    "settingsTitle": "Settings",
+    "settingsDescription": "Choose the language for your cover letter.",
+    "languageLabel": "Language",
+    "saveButton": "Save"
+  }
+}

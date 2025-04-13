@@ -1,0 +1,103 @@
+{
+  "link": {
+    "title": "Thư động lực với AI",
+    "instructions": "Vui lòng nhập liên kết đến thông báo tuyển dụng.",
+    "inputLabel": "Liên kết đến thông báo tuyển dụng",
+    "proceedAddressButton": "Tiếp tục đến nhập địa chỉ",
+    "generateDraft": "Tạo bản nháp",
+    "generatePDF": "Tạo PDF",
+    "processing": "Đang xử lý...",
+
+    "fromToSectionTitle": "Thông báo tuyển dụng ➡️ Thư động lực",
+    "beforeText": "Từ thông báo tuyển dụng",
+    "afterText": "Đến thư động lực",
+
+    "comparisonSectionTitle": "Tại sao bạn nên sử dụng anschreibenAI?",
+    "reason1": "Không có PDF hoặc PDF được định dạng kém (Ví dụ)",
+    "reason2": "Không có chữ ký",
+    "reason3": "Dữ liệu địa chỉ cá nhân được truyền đi",
+    "reason4": "Không thể chỉnh sửa trực tiếp",
+    "reason5": "Cần kinh nghiệm sử dụng ChatGPT",
+    "solution1": "Tuân thủ tiêu chuẩn DIN 5008",
+    "solution2": "Có chữ ký (tùy chọn)",
+    "solution3": "Dữ liệu địa chỉ cá nhân không rời khỏi trình duyệt",
+    "solution4": "Bản nháp có thể chỉnh sửa được",
+    "solution5": "Sử dụng đơn giản mà không cần nhập lệnh",
+
+    "howToSectionTitle": "anschreibenAI hoạt động như thế nào?",
+
+    "faqSectionTitle": "Câu hỏi thường gặp",
+    "question1": "Tại sao không sử dụng ChatGPT đơn giản?",
+    "question2": "DIN 5008 là gì?",
+    "question3": "anschreibenAI có thật sự miễn phí không?",
+    "question4": "Dữ liệu địa chỉ cá nhân của tôi có được sử dụng không?",
+    "question5": "Mô hình nào được sử dụng?",
+    "question6": "Tôi có thêm câu hỏi!",
+    "answer1": "ChatGPT là một công cụ tuyệt vời, nhưng không phù hợp cho mọi ứng dụng. Đặc biệt, nó không tối ưu cho việc tạo tài liệu PDF. Tiêu chuẩn DIN 5008 rất cụ thể và yêu cầu định dạng chính xác mà ChatGPT không phải lúc nào cũng cung cấp được. Với ứng dụng này, bạn có thể đảm bảo rằng tài liệu của mình đáp ứng các yêu cầu của tiêu chuẩn DIN 5008.",
+    "answer2": "DIN 5008 là tiêu chuẩn của Đức thiết lập các quy tắc cho việc viết và thiết kế thư thương mại và các tài liệu kinh doanh khác. Nó đảm bảo một hình thức thống nhất, chuyên nghiệp, ví dụ trong cách ghi địa chỉ, thông tin ngày tháng, điểm nhấn và định dạng. Chúng tôi đã triển khai các quy tắc quan trọng nhất trong ứng dụng này để bạn có thể tập trung vào những gì thực sự quan trọng: nội dung thư động lực của bạn.",
+    "answer3": "Vâng, hoàn toàn miễn phí! Không có phí ẩn, không có đăng ký. Tuy nhiên, bạn chỉ có thể sử dụng ứng dụng 5 lần mỗi ngày.",
+    "answer4": "Dữ liệu cá nhân không bao giờ rời khỏi trình duyệt của bạn. Điều này có nghĩa là: Chúng tôi không lưu trữ bất kỳ dữ liệu nào bạn nhập vào ứng dụng. Dữ liệu địa chỉ chỉ được lưu trữ cục bộ trong trình duyệt của bạn và không được gửi đến máy chủ của chúng tôi. Điều này có nghĩa là dữ liệu của bạn vẫn an toàn và riêng tư.",
+    "answer5": "Hiện tại, chúng tôi sử dụng Gemini Flash 2.0 như trí tuệ nhân tạo.",
+    "answer6": "Bạn có thể sử dụng trò chuyện hỗ trợ để đặt thêm câu hỏi.",
+
+    "privacyPolicy": "Chính sách quyền riêng tư",
+    "termsOfUse": "Điều khoản sử dụng",
+    "copyright": "Đã đăng ký bản quyền"
+  },
+  "address": {
+    "title": "Địa chỉ 🏠",
+    "description": "Vui lòng nhập chi tiết địa chỉ của bạn. Dữ liệu chỉ được sử dụng cho tiêu đề thư. Nếu bạn không muốn cung cấp địa chỉ, bạn có thể bỏ qua bước này.",
+
+    "firstName": "Tên",
+    "lastName": "Họ",
+    "street": "Đường",
+    "buildingNumber": "Số nhà",
+    "postalCode": "Mã bưu điện",
+    "city": "Thành phố",
+    "phone": "Điện thoại",
+    "email": "Email",
+
+    "trash": "Xóa",
+    "back": "Quay lại",
+    "skip": "Bỏ qua",
+    "next": "Tiếp tục đến cá nhân hóa",
+
+    "firstNameError": "Tên phải có ít nhất hai ký tự.",
+    "lastNameError": "Họ phải có ít nhất hai ký tự.",
+    "streetError": "Tên đường phải có ít nhất hai ký tự.",
+    "buildingNumberError": "Số nhà phải có ít nhất một ký tự.",
+    "postalCodeError": "Mã bưu điện phải có ít nhất bốn ký tự.",
+    "cityError": "Thành phố phải có ít nhất hai ký tự."
+  },
+  "personal": {
+    "title": "Cá nhân hóa ✏️",
+    "description": "Vui lòng nêu rõ điểm mạnh và các đặc điểm khác của bạn để làm cho thư động lực thú vị hơn. (tùy chọn)",
+    "textareaLabel": "Hãy cho AI biết điều gì làm bạn trở nên độc đáo.",
+    "textareaBlurred": "- Tôi tình nguyện viên tại Đội Cứu hỏa\n- Tôi có chứng chỉ Photoshop\n- Tôi có nhiều năm kinh nghiệm trong ngành ẩm thực",
+    "back": "Quay lại",
+    "generate": "Tạo bản nháp",
+    "loading": "Đang tạo...",
+    "signatureDescription": "Ở đây bạn có thể tạo chữ ký của mình. (tùy chọn)"
+  },
+  "review": {
+    "title": "Xem lại 📄",
+    "description": "Đây là thư động lực được cá nhân hóa của bạn. Bạn có thể đọc nó một lần và nếu có điều gì bạn không thích, bạn có thể dễ dàng thay đổi trước khi tạo PDF. Nếu bạn hài lòng, hãy nhấp vào In hoặc Tạo PDF.",
+    "back": "Quay lại",
+    "home": "Đến trang chủ",
+    "downloadPDF": "Tải xuống PDF",
+    "print": "In",
+    "nameError": "Tên phải có ít nhất hai ký tự."
+  },
+  "progress": {
+    "link": "Liên kết",
+    "address": "Địa chỉ",
+    "personal": "Cá nhân hóa",
+    "review": "Xem lại"
+  },
+  "settings": {
+    "settingsTitle": "Cài đặt",
+    "settingsDescription": "Chọn ngôn ngữ cho thư động lực của bạn.",
+    "languageLabel": "Ngôn ngữ",
+    "saveButton": "Lưu"
+  }
+}

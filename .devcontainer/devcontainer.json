@@ -1,0 +1,29 @@
+{
+  "name": "Bun Development Environment",
+  "image": "oven/bun:latest",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "github.copilot",
+        "ms-vscode.js-debug",
+        "foxundermoon.shell-format",
+        "tamasfe.even-better-toml",
+        "bierner.markdown-preview-github-styles"
+      ],
+      "settings": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "terminal.integrated.defaultProfile.linux": "bash"
+      }
+    }
+  },
+  "forwardPorts": [3888],
+  "postCreateCommand": "bun install",
+  "remoteUser": "bun",
+  "features": {
+    "ghcr.io/devcontainers/features/git:1": {},
+    "ghcr.io/devcontainers/features/github-cli:1": {}
+  }
+}

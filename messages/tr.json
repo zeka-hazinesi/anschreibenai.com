@@ -1,0 +1,103 @@
+{
+  "link": {
+    "title": "AI ile Motivasyon Mektubu",
+    "instructions": "Lütfen iş ilanının linkini girin.",
+    "inputLabel": "İş ilanı linki",
+    "proceedAddressButton": "Adres girişine devam et",
+    "generateDraft": "Taslak oluştur",
+    "generatePDF": "PDF oluştur",
+    "processing": "İşleniyor...",
+
+    "fromToSectionTitle": "İş İlanı ➡️ Motivasyon Mektubu",
+    "beforeText": "İş ilanından",
+    "afterText": "Motivasyon mektubuna",
+
+    "comparisonSectionTitle": "Neden anschreibenAI kullanmalısın?",
+    "reason1": "PDF yok veya kötü formatlanmış (Örnek)",
+    "reason2": "İmza yok",
+    "reason3": "Kişisel adres bilgileri aktarılıyor",
+    "reason4": "Doğrudan düzenleme mümkün değil",
+    "reason5": "ChatGPT kullanımında deneyim gerekli",
+    "solution1": "DIN 5008 uyumlu",
+    "solution2": "İmza ile (isteğe bağlı)",
+    "solution3": "Kişisel adres bilgileri tarayıcınızdan çıkmaz",
+    "solution4": "Taslak düzenlenebilir",
+    "solution5": "Komut girişi olmadan çocuk oyuncağı kullanım",
+
+    "howToSectionTitle": "anschreibenAI nasıl çalışır?",
+
+    "faqSectionTitle": "Sık Sorulan Sorular",
+    "question1": "Neden sadece ChatGPT kullanmıyoruz?",
+    "question2": "DIN 5008 nedir?",
+    "question3": "anschreibenAI gerçekten ücretsiz mi?",
+    "question4": "Kişisel adres bilgilerim kullanılıyor mu?",
+    "question5": "Hangi model kullanılıyor?",
+    "question6": "Başka sorularım var!",
+    "answer1": "ChatGPT harika bir araçtır, ancak tüm uygulamalar için uygun değildir. Özellikle PDF belgeleri oluşturmak için ideal değildir. DIN 5008 standardı çok özeldir ve ChatGPT'nin her zaman sağlayamayacağı hassas bir formatlama gerektirir. Bu uygulama ile belgelerinizin DIN 5008 gereksinimlerini karşıladığından emin olabilirsiniz.",
+    "answer2": "DIN 5008, iş mektupları ve diğer iş belgelerinin yazılması ve tasarlanması için kurallar belirleyen bir Alman standardıdır. Adres yazımı, tarih bilgileri, vurgulamalar ve formatlamalar gibi konularda tek tip, profesyonel bir görünüm sağlar. Bu uygulamada en önemli kuralları uyguladık, böylece gerçekten önemli olan şeye odaklanabilirsiniz: motivasyon mektubunuzun içeriği.",
+    "answer3": "Evet, tamamen ücretsiz! Gizli ücretler yok, abonelik yok. Ancak uygulamayı günde sadece 5 kez kullanabilirsiniz.",
+    "answer4": "Kişisel bilgiler asla tarayıcınızdan çıkmaz. Yani: Uygulamaya girdiğiniz hiçbir veriyi saklamıyoruz. Adres bilgileri yalnızca tarayıcınızda yerel olarak saklanır ve sunucularımıza gönderilmez. Bu, verilerinizin güvenli ve gizli kalacağı anlamına gelir.",
+    "answer5": "Şu anda yapay zeka olarak Gemini Flash 2.0 kullanıyoruz.",
+    "answer6": "Daha fazla soru sormak için destek sohbetini kullanabilirsiniz.",
+
+    "privacyPolicy": "Gizlilik Politikası",
+    "termsOfUse": "Kullanım Koşulları",
+    "copyright": "Tüm Hakları Saklıdır"
+  },
+  "address": {
+    "title": "Adres 🏠",
+    "description": "Lütfen adres bilgilerinizi girin. Veriler yalnızca antetli kağıt için kullanılır. Adres vermek istemiyorsanız, bu adımı atlayabilirsiniz.",
+
+    "firstName": "Ad",
+    "lastName": "Soyad",
+    "street": "Sokak",
+    "buildingNumber": "Bina Numarası",
+    "postalCode": "Posta Kodu",
+    "city": "Şehir",
+    "phone": "Telefon",
+    "email": "E-posta",
+
+    "trash": "Sil",
+    "back": "Geri",
+    "skip": "Atla",
+    "next": "Kişiselleştirmeye Devam Et",
+
+    "firstNameError": "Ad en az iki karakter uzunluğunda olmalıdır.",
+    "lastNameError": "Soyad en az iki karakter uzunluğunda olmalıdır.",
+    "streetError": "Sokak en az iki karakter uzunluğunda olmalıdır.",
+    "buildingNumberError": "Bina numarası en az bir karakter uzunluğunda olmalıdır.",
+    "postalCodeError": "Posta kodu en az dört karakter uzunluğunda olmalıdır.",
+    "cityError": "Şehir en az iki karakter uzunluğunda olmalıdır."
+  },
+  "personal": {
+    "title": "Kişiselleştirme ✏️",
+    "description": "Motivasyon mektubunuzu daha ilginç hale getirmek için lütfen güçlü yönlerinizi ve diğer özelliklerinizi belirtin. (isteğe bağlı)",
+    "textareaLabel": "AI'ya sizi benzersiz kılan şeyleri anlatın.",
+    "textareaBlurred": "- Gönüllü itfaiyede görev alıyorum\n- Photoshop sertifikam var\n- Yemek sektöründe birkaç yıllık deneyimim var",
+    "back": "Geri",
+    "generate": "Taslak oluştur",
+    "loading": "Oluşturuluyor...",
+    "signatureDescription": "Burada imzanızı oluşturabilirsiniz. (isteğe bağlı)"
+  },
+  "review": {
+    "title": "İnceleme 📄",
+    "description": "İşte kişiselleştirilmiş motivasyon mektubunuz. Bir kez okuyabilir ve beğenmediğiniz bir şey varsa, PDF oluşturmadan önce kolayca değiştirebilirsiniz. Memnunsanız, Yazdır veya PDF oluştur'a tıklayın.",
+    "back": "Geri",
+    "home": "Ana Sayfaya",
+    "downloadPDF": "PDF İndir",
+    "print": "Yazdır",
+    "nameError": "İsim en az iki karakter uzunluğunda olmalıdır."
+  },
+  "progress": {
+    "link": "Link",
+    "address": "Adres",
+    "personal": "Kişiselleştirme",
+    "review": "İnceleme"
+  },
+  "settings": {
+    "settingsTitle": "Ayarlar",
+    "settingsDescription": "Motivasyon mektubunuz için dil seçin.",
+    "languageLabel": "Dil",
+    "saveButton": "Kaydet"
+  }
+}

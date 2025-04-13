@@ -1,0 +1,103 @@
+{
+  "link": {
+    "title": "Anschreiben mit AI",
+    "instructions": "Bitte geben Sie den Link zur Stellenanzeige ein.",
+    "inputLabel": "Link zur Stellenanzeige",
+    "proceedAddressButton": "Weiter zur Adresseingabe",
+    "generateDraft": "Entwurf erstellen",
+    "generatePDF": "PDF erstellen",
+    "processing": "Wird bearbeitet...",
+
+    "fromToSectionTitle": "Stellenanzeige ➡️ Motivationsschreiben",
+    "beforeText": "Von der Stellenanzeige",
+    "afterText": "Zum Motivationsschreiben",
+
+    "comparisonSectionTitle": "Warum solltest du anschreibenAI nutzen?",
+    "reason1": "Kein oder schlecht formatiertes PDF (Beispiel)",
+    "reason2": "Keine Unterschrift",
+    "reason3": "Private Adressdaten werden übertragen",
+    "reason4": "Keine direkte Bearbeitung möglich",
+    "reason5": "Erfahrung in Umgang mit ChatGPT notwendig",
+    "solution1": "DIN 5008 konform",
+    "solution2": "Mit Unterschrift (optional)",
+    "solution3": "Private Adressdaten verlassen den Browser nicht",
+    "solution4": "Entwurf kann bearbeitet werden",
+    "solution5": "Kinderleichte Bedienung ohne Eingabe von Prompts",
+
+    "howToSectionTitle": "Wie funktioniert anschreibenAI?",
+
+    "faqSectionTitle": "Häufig gestellte Fragen",
+    "question1": "Warum nicht einfach ChatGPT nutzen?",
+    "question2": "Was ist DIN 5008?",
+    "question3": "Ist anschreibenAI wirklich kostenlos?",
+    "question4": "Werden meine privaten Adressdaten verwendet?",
+    "question5": "Welches Modell wird verwendet?",
+    "question6": "Ich habe weitere Fragen!",
+    "answer1": "ChatGPT ist ein großartiges Werkzeug, aber nicht für alle Anwendungsfälle geeignet. Besonders bei der Erstellung von PDF-Dokumenten ist es nicht optimal. Die DIN 5008-Norm ist sehr spezifisch und erfordert eine präzise Formatierung, die ChatGPT nicht immer bieten kann. Mit dieser App können Sie sicherstellen, dass Ihre Dokumente den Anforderungen der DIN 5008 entsprechen.",
+    "answer2": "DIN 5008 ist eine deutsche Norm, die Regeln für das Schreiben und Gestalten von Geschäftsbriefen und anderen Geschäftsdokumenten festlegt. Sie sorgt für ein einheitliches, professionelles Erscheinungsbild, z.B. bei der Adressierung, bei Datumsangaben, Hervorhebungen und Formatierungen. Wir haben die wichtigsten Regeln in dieser App implementiert, damit Sie sich auf das konzentrieren können, was wirklich wichtig ist: den Inhalt Ihres Motivationsschreibens.",
+    "answer3": "Ja, es ist komplett kostenlos! Keine versteckten Gebühren, keine Abonnements. Sie können die App jedoch nur 5 Mal pro Tag nutzen.",
+    "answer4": "Die privaten Daten verlassen niemals Ihren Browser. Das heißt: Wir speichern keine Daten, die Sie in die App eingeben. Die Adressdaten werden nur lokal in Ihrem Browser gespeichert und nicht an unsere Server gesendet. Das bedeutet, dass Ihre Daten sicher und privat bleiben.",
+    "answer5": "Aktuell verwenden wir Gemini Flash 2.0 als künstliche Intelligenz.",
+    "answer6": "Sie können den Support-Chat nutzen, um weitere Fragen zu stellen.",
+
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfUse": "Nutzungsbedingungen",
+    "copyright": "Alle Rechte vorbehalten"
+  },
+  "address": {
+    "title": "Adresse 🏠",
+    "description": "Bitte geben Sie Ihre Adressdaten ein. Die Daten werden nur für den Briefkopf verwendet. Wenn Sie keine Adresse angeben möchten, können Sie diesen Schritt überspringen.",
+
+    "firstName": "Vorname",
+    "lastName": "Nachname",
+    "street": "Straße",
+    "buildingNumber": "Hausnummer",
+    "postalCode": "Postleitzahl",
+    "city": "Ort",
+    "phone": "Telefon",
+    "email": "E-Mail",
+
+    "trash": "Löschen",
+    "back": "Zurück",
+    "skip": "Überspringen",
+    "next": "Weiter zur Personalisierung",
+
+    "firstNameError": "Der Vorname muss mindestens zwei Zeichen lang sein.",
+    "lastNameError": "Der Nachname muss mindestens zwei Zeichen lang sein.",
+    "streetError": "Die Straße muss mindestens zwei Zeichen lang sein.",
+    "buildingNumberError": "Die Hausnummer muss mindestens ein Zeichen lang sein.",
+    "postalCodeError": "Die Postleitzahl muss mindestens vier Zeichen lang sein.",
+    "cityError": "Der Ort muss mindestens zwei Zeichen lang sein."
+  },
+  "personal": {
+    "title": "Personalisierung ✏️",
+    "description": "Bitte geben Sie Ihre Stärken und andere Besonderheiten an, um das Anschreiben interessanter zu gestalten. (optional)",
+    "textareaLabel": "Erzählen Sie der KI, was Sie einzigartig macht.",
+    "textareaBlurred": "- Ich engagiere mich bei der Freiwilligen Feuerwehr\n- Ich besitze ein Photoshop-Zertifikat\n- Ich verfüge über mehrjährige Erfahrung in der Gastronomie",
+    "back": "Zurück",
+    "generate": "Entwurf erstellen",
+    "loading": "Wird erstellt...",
+    "signatureDescription": "Hier können Sie Ihre Unterschrift erstellen. (optional)"
+  },
+  "review": {
+    "title": "Review 📄",
+    "description": "Hier ist Ihr personalisiertes Motivationsschreiben. Sie können es einmal durchlesen und wenn Ihnen etwas nicht gefällt, können Sie es vor der PDF-Erstellung einfach abändern. Wenn Sie zufrieden sind, klicken Sie auf Drucken oder PDF erstellen.",
+    "back": "Zurück",
+    "home": "Zur Startseite",
+    "downloadPDF": "PDF herunterladen",
+    "print": "Drucken",
+    "nameError": "Der Name muss mindestens zwei Zeichen lang sein."
+  },
+  "progress": {
+    "link": "Link",
+    "address": "Adresse",
+    "personal": "Personalisierung",
+    "review": "Review"
+  },
+  "settings": {
+    "settingsTitle": "Einstellungen",
+    "settingsDescription": "Wählen Sie die Sprache für Ihr Anschreiben.",
+    "languageLabel": "Sprache",
+    "saveButton": "Speichern"
+  }
+}

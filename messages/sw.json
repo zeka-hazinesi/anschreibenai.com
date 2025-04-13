@@ -1,0 +1,103 @@
+{
+  "link": {
+    "title": "Barua ya Motisha na AI",
+    "instructions": "Tafadhali ingiza kiungo cha tangazo la kazi.",
+    "inputLabel": "Kiungo cha tangazo la kazi",
+    "proceedAddressButton": "Endelea hadi kuingiza anwani",
+    "generateDraft": "Tengeneza rasimu",
+    "generatePDF": "Tengeneza PDF",
+    "processing": "Inachakata...",
+
+    "fromToSectionTitle": "Tangazo la Kazi ➡️ Barua ya Motisha",
+    "beforeText": "Kutoka kwa tangazo la kazi",
+    "afterText": "Hadi kwa barua ya motisha",
+
+    "comparisonSectionTitle": "Kwa nini unapaswa kutumia anschreibenAI?",
+    "reason1": "Hakuna PDF au PDF iliyopangwa vibaya (Mfano)",
+    "reason2": "Hakuna sahihi",
+    "reason3": "Data ya anwani ya kibinafsi inapitishwa",
+    "reason4": "Hakuna uwezekano wa kuhariri moja kwa moja",
+    "reason5": "Uzoefu wa kutumia ChatGPT unahitajika",
+    "solution1": "Inafuata kiwango cha DIN 5008",
+    "solution2": "Ina sahihi (kwa hiari)",
+    "solution3": "Data ya anwani ya kibinafsi haiondoki kwenye kivinjari",
+    "solution4": "Rasimu inaweza kuhaririwa",
+    "solution5": "Rahisi sana kutumia bila kuingiza amri",
+
+    "howToSectionTitle": "Je, anschreibenAI inafanya kazi vipi?",
+
+    "faqSectionTitle": "Maswali Yanayoulizwa Mara kwa Mara",
+    "question1": "Kwa nini usitumie ChatGPT tu?",
+    "question2": "DIN 5008 ni nini?",
+    "question3": "Je, anschreibenAI ni bure kweli?",
+    "question4": "Je, data zangu za anwani za kibinafsi zinatumika?",
+    "question5": "Ni modeli gani inatumika?",
+    "question6": "Nina maswali zaidi!",
+    "answer1": "ChatGPT ni chombo kizuri, lakini haifai kwa programu zote. Hasa, sio nzuri kwa kuunda hati za PDF. Kiwango cha DIN 5008 ni maalum sana na kinahitaji upangaji sahihi ambao ChatGPT haiwezi kutoa mara zote. Kwa programu hii, unaweza kuhakikisha kuwa hati zako zinakidhi mahitaji ya kiwango cha DIN 5008.",
+    "answer2": "DIN 5008 ni kiwango cha Ujerumani kinachoweka sheria za kuandika na kubuni barua za biashara na hati nyingine za biashara. Inahakikisha muonekano wa kitaalamu na sawa, kwa mfano katika anwani, maelezo ya tarehe, misisitizo, na upangaji. Tumetekeleza sheria muhimu zaidi katika programu hii ili uweze kuzingatia kile ambacho ni muhimu zaidi: maudhui ya barua yako ya motisha.",
+    "answer3": "Ndiyo, ni bure kabisa! Hakuna malipo yaliyofichwa, hakuna usajili. Hata hivyo, unaweza kutumia programu mara 5 tu kwa siku.",
+    "answer4": "Data za kibinafsi haziwahi kuondoka kivinjari chako. Hii inamaanisha: Hatuhifadhi data yoyote unayoingiza kwenye programu. Data za anwani zinahifadhiwa tu kwa njia ya ndani kwenye kivinjari chako na hazitatumwa kwenye seva zetu. Hii inamaanisha kuwa data zako zinabaki salama na za kibinafsi.",
+    "answer5": "Kwa sasa, tunatumia Gemini Flash 2.0 kama akili bandia.",
+    "answer6": "Unaweza kutumia mazungumzo ya msaada kuuliza maswali zaidi.",
+
+    "privacyPolicy": "Sera ya Faragha",
+    "termsOfUse": "Masharti ya Matumizi",
+    "copyright": "Haki Zote Zimehifadhiwa"
+  },
+  "address": {
+    "title": "Anwani 🏠",
+    "description": "Tafadhali ingiza maelezo ya anwani yako. Data inatumika tu kwa kichwa cha barua. Ikiwa hutaki kutoa anwani, unaweza kuruka hatua hii.",
+
+    "firstName": "Jina la Kwanza",
+    "lastName": "Jina la Familia",
+    "street": "Mtaa",
+    "buildingNumber": "Nambari ya Nyumba",
+    "postalCode": "Msimbo wa Posta",
+    "city": "Mji",
+    "phone": "Simu",
+    "email": "Barua pepe",
+
+    "trash": "Futa",
+    "back": "Rudi",
+    "skip": "Ruka",
+    "next": "Endelea hadi ubinafsi",
+
+    "firstNameError": "Jina la kwanza lazima liwe na angalau herufi mbili.",
+    "lastNameError": "Jina la familia lazima liwe na angalau herufi mbili.",
+    "streetError": "Mtaa lazima uwe na angalau herufi mbili.",
+    "buildingNumberError": "Nambari ya nyumba lazima iwe na angalau herufi moja.",
+    "postalCodeError": "Msimbo wa posta lazima uwe na angalau herufi nne.",
+    "cityError": "Mji lazima uwe na angalau herufi mbili."
+  },
+  "personal": {
+    "title": "Ubinafsi ✏️",
+    "description": "Tafadhali onyesha nguvu zako na mambo mengine maalum ili kufanya barua ya motisha kuwa ya kuvutia zaidi. (kwa hiari)",
+    "textareaLabel": "Mwambie AI kile kinachokufanya kuwa wa kipekee.",
+    "textareaBlurred": "- Ninajitolea katika Idara ya Zimamoto\n- Nina cheti cha Photoshop\n- Nina uzoefu wa miaka kadhaa katika sekta ya chakula",
+    "back": "Rudi",
+    "generate": "Tengeneza rasimu",
+    "loading": "Inatengeneza...",
+    "signatureDescription": "Hapa unaweza kuunda sahihi yako. (kwa hiari)"
+  },
+  "review": {
+    "title": "Kagua 📄",
+    "description": "Hii hapa barua yako ya motisha iliyobinafsishwa. Unaweza kuisoma mara moja na ikiwa kuna kitu ambacho hukipendi, unaweza kukibadilisha kwa urahisi kabla ya kuunda PDF. Ukiridhika, bofya kwenye Chapisha au Unda PDF.",
+    "back": "Rudi",
+    "home": "Kwenda ukurasa wa mwanzo",
+    "downloadPDF": "Pakua PDF",
+    "print": "Chapisha",
+    "nameError": "Jina lazima liwe na angalau herufi mbili."
+  },
+  "progress": {
+    "link": "Kiungo",
+    "address": "Anwani",
+    "personal": "Ubinafsi",
+    "review": "Kagua"
+  },
+  "settings": {
+    "settingsTitle": "Mipangilio",
+    "settingsDescription": "Chagua lugha ya barua yako ya motisha.",
+    "languageLabel": "Lugha",
+    "saveButton": "Hifadhi"
+  }
+}

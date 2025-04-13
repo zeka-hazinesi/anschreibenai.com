@@ -1,0 +1,103 @@
+{
+  "link": {
+    "title": "AIによるカバーレター",
+    "instructions": "求人広告のリンクを入力してください。",
+    "inputLabel": "求人広告のリンク",
+    "proceedAddressButton": "住所入力に進む",
+    "generateDraft": "下書きを作成",
+    "generatePDF": "PDFを作成",
+    "processing": "処理中...",
+
+    "fromToSectionTitle": "求人広告 ➡️ 動機付けレター",
+    "beforeText": "求人広告から",
+    "afterText": "動機付けレターへ",
+
+    "comparisonSectionTitle": "なぜanschreibenAIを使うべきか？",
+    "reason1": "PDFなし、または形式の悪いPDF（例）",
+    "reason2": "署名なし",
+    "reason3": "個人の住所データが送信される",
+    "reason4": "直接編集ができない",
+    "reason5": "ChatGPTの使用経験が必要",
+    "solution1": "DIN 5008規格に準拠",
+    "solution2": "署名付き（オプション）",
+    "solution3": "個人の住所データはブラウザから出ない",
+    "solution4": "下書きは編集可能",
+    "solution5": "コマンド入力なしで簡単に使用可能",
+
+    "howToSectionTitle": "anschreibenAIの仕組みは？",
+
+    "faqSectionTitle": "よくある質問",
+    "question1": "なぜ単にChatGPTを使わないのか？",
+    "question2": "DIN 5008とは？",
+    "question3": "anschreibenAIは本当に無料なのか？",
+    "question4": "私の個人住所データは使用されるのか？",
+    "question5": "どのモデルが使用されているのか？",
+    "question6": "他に質問がある！",
+    "answer1": "ChatGPTは素晴らしいツールですが、すべての用途に適しているわけではありません。特に、PDF文書の作成には最適ではありません。DIN 5008規格は非常に具体的で、ChatGPTが常に提供できるとは限らない正確なフォーマットを必要とします。このアプリを使用することで、あなたの文書がDIN 5008規格の要件を満たしていることを確認できます。",
+    "answer2": "DIN 5008はビジネスレターやその他のビジネス文書の書き方やデザインのルールを定めたドイツの規格です。アドレス表記、日付情報、強調表示、フォーマットなどで統一された専門的な外観を確保します。このアプリでは最も重要なルールを実装しているため、本当に重要なこと、つまりあなたの動機付けレターの内容に集中できます。",
+    "answer3": "はい、完全に無料です！隠れた料金やサブスクリプションはありません。ただし、アプリは1日に5回までしか使用できません。",
+    "answer4": "個人データがブラウザから出ることはありません。つまり：アプリに入力したデータは保存されません。住所データはブラウザにローカルに保存されるだけで、サーバーには送信されません。これにより、あなたのデータは安全かつプライベートに保たれます。",
+    "answer5": "現在、人工知能としてGemini Flash 2.0を使用しています。",
+    "answer6": "さらに質問がある場合は、サポートチャットを利用できます。",
+
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfUse": "利用規約",
+    "copyright": "全ての権利を留保"
+  },
+  "address": {
+    "title": "住所 🏠",
+    "description": "あなたの住所情報を入力してください。このデータはレターヘッドにのみ使用されます。住所を提供したくない場合は、このステップをスキップできます。",
+
+    "firstName": "名",
+    "lastName": "姓",
+    "street": "通り",
+    "buildingNumber": "番地",
+    "postalCode": "郵便番号",
+    "city": "市区町村",
+    "phone": "電話番号",
+    "email": "メールアドレス",
+
+    "trash": "削除",
+    "back": "戻る",
+    "skip": "スキップ",
+    "next": "パーソナライズに進む",
+
+    "firstNameError": "名前は少なくとも2文字必要です。",
+    "lastNameError": "姓は少なくとも2文字必要です。",
+    "streetError": "通りの名前は少なくとも2文字必要です。",
+    "buildingNumberError": "番地は少なくとも1文字必要です。",
+    "postalCodeError": "郵便番号は少なくとも4文字必要です。",
+    "cityError": "市区町村は少なくとも2文字必要です。"
+  },
+  "personal": {
+    "title": "パーソナライズ ✏️",
+    "description": "カバーレターをより魅力的にするために、あなたの強みやその他の特徴を入力してください。（任意）",
+    "textareaLabel": "AIにあなたの独自性を伝えてください。",
+    "textareaBlurred": "- 消防団でボランティア活動をしています\n- Photoshopの資格を持っています\n- 飲食業界での数年の経験があります",
+    "back": "戻る",
+    "generate": "下書きを作成",
+    "loading": "作成中...",
+    "signatureDescription": "ここで署名を作成できます。（任意）"
+  },
+  "review": {
+    "title": "レビュー 📄",
+    "description": "こちらがあなたのパーソナライズされた動機付けレターです。一度読んで、気に入らない部分があれば、PDFを作成する前に簡単に変更できます。満足であれば、印刷またはPDF作成をクリックしてください。",
+    "back": "戻る",
+    "home": "ホームページへ",
+    "downloadPDF": "PDFをダウンロード",
+    "print": "印刷",
+    "nameError": "名前は少なくとも2文字必要です。"
+  },
+  "progress": {
+    "link": "リンク",
+    "address": "住所",
+    "personal": "パーソナライズ",
+    "review": "レビュー"
+  },
+  "settings": {
+    "settingsTitle": "設定",
+    "settingsDescription": "カバーレターの言語を選択してください。",
+    "languageLabel": "言語",
+    "saveButton": "保存"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "link": {
+    "title": "Scrisoare de motivație cu AI",
+    "instructions": "Vă rugăm să introduceți link-ul către anunțul de angajare.",
+    "inputLabel": "Link către anunțul de angajare",
+    "proceedAddressButton": "Continuați la introducerea adresei",
+    "generateDraft": "Creați ciornă",
+    "generatePDF": "Creați PDF",
+    "processing": "Se procesează...",
+
+    "fromToSectionTitle": "Anunț de angajare ➡️ Scrisoare de motivație",
+    "beforeText": "De la anunțul de angajare",
+    "afterText": "La scrisoarea de motivație",
+
+    "comparisonSectionTitle": "De ce ar trebui să folosiți anschreibenAI?",
+    "reason1": "Niciun PDF sau PDF formatat greșit (Exemplu)",
+    "reason2": "Nicio semnătură",
+    "reason3": "Datele private de adresă sunt transmise",
+    "reason4": "Nu este posibilă editarea directă",
+    "reason5": "Experiență necesară în utilizarea ChatGPT",
+    "solution1": "Conform cu standardul DIN 5008",
+    "solution2": "Cu semnătură (opțional)",
+    "solution3": "Datele private de adresă nu părăsesc browserul",
+    "solution4": "Ciorna poate fi editată",
+    "solution5": "Utilizare extrem de ușoară fără introducerea de comenzi",
+
+    "howToSectionTitle": "Cum funcționează anschreibenAI?",
+
+    "faqSectionTitle": "Întrebări frecvente",
+    "question1": "De ce să nu folosim pur și simplu ChatGPT?",
+    "question2": "Ce este DIN 5008?",
+    "question3": "Este anschreibenAI cu adevărat gratuit?",
+    "question4": "Sunt utilizate datele mele private de adresă?",
+    "question5": "Ce model este utilizat?",
+    "question6": "Am mai multe întrebări!",
+    "answer1": "ChatGPT este un instrument excelent, dar nu este potrivit pentru toate aplicațiile. În special, nu este optim pentru crearea de documente PDF. Standardul DIN 5008 este foarte specific și necesită o formatare precisă pe care ChatGPT nu o poate oferi întotdeauna. Cu această aplicație, vă puteți asigura că documentele dvs. îndeplinesc cerințele standardului DIN 5008.",
+    "answer2": "DIN 5008 este un standard german care stabilește reguli pentru scrierea și proiectarea scrisorilor de afaceri și a altor documente de afaceri. Asigură un aspect uniform, profesional, de exemplu în adresare, informații despre dată, evidențieri și formatare. Am implementat cele mai importante reguli în această aplicație pentru ca dvs. să vă puteți concentra pe ceea ce contează cu adevărat: conținutul scrisorii dvs. de motivație.",
+    "answer3": "Da, este complet gratuit! Fără taxe ascunse, fără abonamente. Cu toate acestea, puteți utiliza aplicația doar de 5 ori pe zi.",
+    "answer4": "Datele private nu părăsesc niciodată browserul dvs. Aceasta înseamnă: Nu stocăm niciun fel de date pe care le introduceți în aplicație. Datele de adresă sunt stocate doar local în browserul dvs. și nu sunt trimise către serverele noastre. Aceasta înseamnă că datele dvs. rămân sigure și private.",
+    "answer5": "În prezent, folosim Gemini Flash 2.0 ca inteligență artificială.",
+    "answer6": "Puteți utiliza chat-ul de asistență pentru a pune mai multe întrebări.",
+
+    "privacyPolicy": "Politica de confidențialitate",
+    "termsOfUse": "Termeni de utilizare",
+    "copyright": "Toate drepturile rezervate"
+  },
+  "address": {
+    "title": "Adresă 🏠",
+    "description": "Vă rugăm să introduceți detaliile adresei dvs. Datele sunt utilizate doar pentru antetul scrisorii. Dacă nu doriți să furnizați o adresă, puteți sări peste acest pas.",
+
+    "firstName": "Prenume",
+    "lastName": "Nume",
+    "street": "Strada",
+    "buildingNumber": "Număr",
+    "postalCode": "Cod poștal",
+    "city": "Oraș",
+    "phone": "Telefon",
+    "email": "E-mail",
+
+    "trash": "Ștergeți",
+    "back": "Înapoi",
+    "skip": "Săriți",
+    "next": "Continuați la personalizare",
+
+    "firstNameError": "Prenumele trebuie să aibă cel puțin două caractere.",
+    "lastNameError": "Numele trebuie să aibă cel puțin două caractere.",
+    "streetError": "Strada trebuie să aibă cel puțin două caractere.",
+    "buildingNumberError": "Numărul trebuie să aibă cel puțin un caracter.",
+    "postalCodeError": "Codul poștal trebuie să aibă cel puțin patru caractere.",
+    "cityError": "Orașul trebuie să aibă cel puțin două caractere."
+  },
+  "personal": {
+    "title": "Personalizare ✏️",
+    "description": "Vă rugăm să indicați punctele dvs. forte și alte particularități pentru a face scrisoarea de motivație mai interesantă. (opțional)",
+    "textareaLabel": "Spuneți AI-ului ce vă face unic.",
+    "textareaBlurred": "- Sunt voluntar la pompierii voluntari\n- Am un certificat de Photoshop\n- Am mai mulți ani de experiență în domeniul gastronomiei",
+    "back": "Înapoi",
+    "generate": "Creați ciornă",
+    "loading": "Se creează...",
+    "signatureDescription": "Aici puteți crea semnătura dvs. (opțional)"
+  },
+  "review": {
+    "title": "Revizuire 📄",
+    "description": "Iată scrisoarea dvs. de motivație personalizată. O puteți citi o dată și dacă există ceva ce nu vă place, puteți modifica ușor înainte de a crea PDF-ul. Dacă sunteți mulțumit, faceți clic pe Imprimare sau Creați PDF.",
+    "back": "Înapoi",
+    "home": "La pagina principală",
+    "downloadPDF": "Descărcați PDF",
+    "print": "Imprimați",
+    "nameError": "Numele trebuie să aibă cel puțin două caractere."
+  },
+  "progress": {
+    "link": "Link",
+    "address": "Adresă",
+    "personal": "Personalizare",
+    "review": "Revizuire"
+  },
+  "settings": {
+    "settingsTitle": "Setări",
+    "settingsDescription": "Alegeți limba pentru scrisoarea dvs. de motivație.",
+    "languageLabel": "Limbă",
+    "saveButton": "Salvați"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "link": {
+    "title": "Liham ng Motibasyon gamit ang AI",
+    "instructions": "Mangyaring ilagay ang link sa job advertisement.",
+    "inputLabel": "Link sa job advertisement",
+    "proceedAddressButton": "Magpatuloy sa paglalagay ng address",
+    "generateDraft": "Gumawa ng draft",
+    "generatePDF": "Gumawa ng PDF",
+    "processing": "Pinoproseso...",
+
+    "fromToSectionTitle": "Job Advertisement ➡️ Liham ng Motibasyon",
+    "beforeText": "Mula sa job advertisement",
+    "afterText": "Papunta sa liham ng motibasyon",
+
+    "comparisonSectionTitle": "Bakit dapat mong gamitin ang anschreibenAI?",
+    "reason1": "Walang PDF o hindi magandang format ng PDF (Halimbawa)",
+    "reason2": "Walang lagda",
+    "reason3": "Naipapadala ang pribadong data ng address",
+    "reason4": "Hindi posible ang direktang pag-edit",
+    "reason5": "Kailangan ang karanasan sa paggamit ng ChatGPT",
+    "solution1": "Sumusunod sa pamantayan ng DIN 5008",
+    "solution2": "May lagda (opsyonal)",
+    "solution3": "Hindi lumalabas ng browser ang pribadong data ng address",
+    "solution4": "Maaaring i-edit ang draft",
+    "solution5": "Napakadaling gamitin nang walang paglalagay ng mga utos",
+
+    "howToSectionTitle": "Paano gumagana ang anschreibenAI?",
+
+    "faqSectionTitle": "Mga Madalas na Katanungan",
+    "question1": "Bakit hindi na lang gamitin ang ChatGPT?",
+    "question2": "Ano ang DIN 5008?",
+    "question3": "Libre ba talaga ang anschreibenAI?",
+    "question4": "Ginagamit ba ang aking pribadong data ng address?",
+    "question5": "Anong modelo ang ginagamit?",
+    "question6": "Mayroon pa akong mga katanungan!",
+    "answer1": "Ang ChatGPT ay isang mahusay na tool, ngunit hindi ito angkop para sa lahat ng aplikasyon. Partikular, hindi ito ang pinakamahusay para sa paggawa ng mga PDF na dokumento. Ang pamantayan ng DIN 5008 ay napaka-ispesipiko at nangangailangan ng tumpak na formatting na hindi palaging maibibigay ng ChatGPT. Sa app na ito, masisiguro mo na ang iyong mga dokumento ay tumutugon sa mga kinakailangan ng pamantayan ng DIN 5008.",
+    "answer2": "Ang DIN 5008 ay isang German na pamantayan na nagtatakda ng mga patakaran para sa pagsulat at pagdisenyo ng mga liham ng negosyo at iba pang mga dokumento ng negosyo. Ito ay nagtitiyak ng isang magkakatulad, propesyonal na hitsura, halimbawa sa pag-address, impormasyon ng petsa, mga pagbibigay-diin at formatting. Ipinatupad namin ang pinakamahahalagang mga patakaran sa app na ito upang makapagtuon ka sa kung ano ang talagang mahalaga: ang nilalaman ng iyong liham ng motibasyon.",
+    "answer3": "Oo, ito ay ganap na libre! Walang nakatagong bayad, walang mga subscription. Gayunpaman, maaari mong gamitin ang app ng 5 beses lamang sa isang araw.",
+    "answer4": "Ang pribadong data ay hindi kailanman umaalis sa iyong browser. Ibig sabihin nito: Hindi kami nag-iimbak ng anumang data na inilalagay mo sa app. Ang data ng address ay naka-imbak lamang sa iyong browser at hindi ipinapadala sa aming mga server. Ibig sabihin nito, ang iyong data ay nananatiling ligtas at pribado.",
+    "answer5": "Sa kasalukuyan, gumagamit kami ng Gemini Flash 2.0 bilang artificial intelligence.",
+    "answer6": "Maaari mong gamitin ang support chat para magtanong ng karagdagang mga katanungan.",
+
+    "privacyPolicy": "Patakaran sa Privacy",
+    "termsOfUse": "Mga Tuntunin ng Paggamit",
+    "copyright": "Nakalaan ang Lahat ng Karapatan"
+  },
+  "address": {
+    "title": "Address 🏠",
+    "description": "Mangyaring ilagay ang mga detalye ng iyong address. Ang data ay ginagamit lamang para sa letterhead. Kung ayaw mong magbigay ng address, maaari mong laktawan ang hakbang na ito.",
+
+    "firstName": "Pangalan",
+    "lastName": "Apelyido",
+    "street": "Kalye",
+    "buildingNumber": "Numero ng Bahay",
+    "postalCode": "Postal Code",
+    "city": "Lungsod",
+    "phone": "Telepono",
+    "email": "Email",
+
+    "trash": "Burahin",
+    "back": "Bumalik",
+    "skip": "Laktawan",
+    "next": "Magpatuloy sa personalization",
+
+    "firstNameError": "Ang pangalan ay dapat na may hindi bababa sa dalawang character.",
+    "lastNameError": "Ang apelyido ay dapat na may hindi bababa sa dalawang character.",
+    "streetError": "Ang kalye ay dapat na may hindi bababa sa dalawang character.",
+    "buildingNumberError": "Ang numero ng bahay ay dapat na may hindi bababa sa isang character.",
+    "postalCodeError": "Ang postal code ay dapat na may hindi bababa sa apat na character.",
+    "cityError": "Ang lungsod ay dapat na may hindi bababa sa dalawang character."
+  },
+  "personal": {
+    "title": "Personalization ✏️",
+    "description": "Mangyaring isaad ang iyong mga kalakasan at iba pang mga katangian upang gawing mas kawili-wili ang liham ng motibasyon. (opsyonal)",
+    "textareaLabel": "Sabihin sa AI kung ano ang nagpapakaiba sa iyo.",
+    "textareaBlurred": "- Ako ay nagboboluntaryo sa Fire Brigade\n- Mayroon akong sertipiko sa Photoshop\n- Mayroon akong ilang taong karanasan sa industriya ng restaurant",
+    "back": "Bumalik",
+    "generate": "Gumawa ng draft",
+    "loading": "Ginagawa...",
+    "signatureDescription": "Dito maaari mong gawin ang iyong lagda. (opsyonal)"
+  },
+  "review": {
+    "title": "Pagsusuri 📄",
+    "description": "Narito ang iyong personalized na liham ng motibasyon. Maaari mong basahin ito nang isang beses at kung may hindi ka gusto, maaari mo itong baguhin bago gumawa ng PDF. Kung ikaw ay nasisiyahan, i-click ang Print o Gumawa ng PDF.",
+    "back": "Bumalik",
+    "home": "Sa homepage",
+    "downloadPDF": "I-download ang PDF",
+    "print": "I-print",
+    "nameError": "Ang pangalan ay dapat na may hindi bababa sa dalawang character."
+  },
+  "progress": {
+    "link": "Link",
+    "address": "Address",
+    "personal": "Personalization",
+    "review": "Pagsusuri"
+  },
+  "settings": {
+    "settingsTitle": "Mga Setting",
+    "settingsDescription": "Pumili ng wika para sa iyong liham ng motibasyon.",
+    "languageLabel": "Wika",
+    "saveButton": "I-save"
+  }
+}

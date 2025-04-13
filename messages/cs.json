@@ -1,0 +1,103 @@
+{
+  "link": {
+    "title": "Motivační dopis s AI",
+    "instructions": "Zadejte prosím odkaz na pracovní nabídku.",
+    "inputLabel": "Odkaz na pracovní nabídku",
+    "proceedAddressButton": "Pokračovat na zadání adresy",
+    "generateDraft": "Vytvořit koncept",
+    "generatePDF": "Vytvořit PDF",
+    "processing": "Zpracovává se...",
+
+    "fromToSectionTitle": "Pracovní nabídka ➡️ Motivační dopis",
+    "beforeText": "Z pracovní nabídky",
+    "afterText": "K motivačnímu dopisu",
+
+    "comparisonSectionTitle": "Proč byste měli používat anschreibenAI?",
+    "reason1": "Žádné nebo špatně formátované PDF (Příklad)",
+    "reason2": "Bez podpisu",
+    "reason3": "Přenášejí se soukromé adresní údaje",
+    "reason4": "Není možná přímá úprava",
+    "reason5": "Nutná zkušenost s používáním ChatGPT",
+    "solution1": "V souladu s normou DIN 5008",
+    "solution2": "S podpisem (volitelně)",
+    "solution3": "Soukromé adresní údaje neopouštějí prohlížeč",
+    "solution4": "Koncept lze upravovat",
+    "solution5": "Dětsky jednoduché použití bez zadávání příkazů",
+
+    "howToSectionTitle": "Jak funguje anschreibenAI?",
+
+    "faqSectionTitle": "Často kladené otázky",
+    "question1": "Proč nepoužívat jednoduše ChatGPT?",
+    "question2": "Co je DIN 5008?",
+    "question3": "Je anschreibenAI opravdu zdarma?",
+    "question4": "Používají se moje soukromé adresní údaje?",
+    "question5": "Jaký model se používá?",
+    "question6": "Mám další otázky!",
+    "answer1": "ChatGPT je skvělý nástroj, ale není vhodný pro všechny aplikace. Obzvláště pro vytváření PDF dokumentů není optimální. Norma DIN 5008 je velmi specifická a vyžaduje přesné formátování, které ChatGPT ne vždy dokáže poskytnout. S touto aplikací si můžete být jisti, že vaše dokumenty splňují požadavky normy DIN 5008.",
+    "answer2": "DIN 5008 je německá norma, která stanovuje pravidla pro psaní a navrhování obchodních dopisů a dalších obchodních dokumentů. Zajišťuje jednotný, profesionální vzhled, např. v adresování, údajích o datu, zvýrazněních a formátování. V této aplikaci jsme implementovali nejdůležitější pravidla, abyste se mohli soustředit na to, co je skutečně důležité: obsah vašeho motivačního dopisu.",
+    "answer3": "Ano, je zcela zdarma! Žádné skryté poplatky, žádné předplatné. Aplikaci však můžete používat pouze 5krát denně.",
+    "answer4": "Soukromé údaje nikdy neopouštějí váš prohlížeč. To znamená: Neukládáme žádné údaje, které do aplikace zadáte. Adresní údaje jsou uloženy pouze lokálně ve vašem prohlížeči a nejsou odesílány na naše servery. To znamená, že vaše údaje zůstávají v bezpečí a soukromí.",
+    "answer5": "V současné době používáme jako umělou inteligenci Gemini Flash 2.0.",
+    "answer6": "Pro další otázky můžete použít chat podpory.",
+
+    "privacyPolicy": "Zásady ochrany osobních údajů",
+    "termsOfUse": "Podmínky používání",
+    "copyright": "Všechna práva vyhrazena"
+  },
+  "address": {
+    "title": "Adresa 🏠",
+    "description": "Zadejte prosím své adresní údaje. Údaje se používají pouze pro záhlaví dopisu. Pokud nechcete adresu uvádět, můžete tento krok přeskočit.",
+
+    "firstName": "Křestní jméno",
+    "lastName": "Příjmení",
+    "street": "Ulice",
+    "buildingNumber": "Číslo domu",
+    "postalCode": "PSČ",
+    "city": "Město",
+    "phone": "Telefon",
+    "email": "E-mail",
+
+    "trash": "Smazat",
+    "back": "Zpět",
+    "skip": "Přeskočit",
+    "next": "Pokračovat na personalizaci",
+
+    "firstNameError": "Křestní jméno musí mít alespoň dva znaky.",
+    "lastNameError": "Příjmení musí mít alespoň dva znaky.",
+    "streetError": "Ulice musí mít alespoň dva znaky.",
+    "buildingNumberError": "Číslo domu musí mít alespoň jeden znak.",
+    "postalCodeError": "PSČ musí mít alespoň čtyři znaky.",
+    "cityError": "Město musí mít alespoň dva znaky."
+  },
+  "personal": {
+    "title": "Personalizace ✏️",
+    "description": "Uveďte prosím své silné stránky a další zvláštnosti, aby byl motivační dopis zajímavější. (volitelné)",
+    "textareaLabel": "Řekněte umělé inteligenci, co vás činí jedinečnými.",
+    "textareaBlurred": "- Jsem dobrovolník u hasičů\n- Mám certifikát na Photoshop\n- Mám několikaletou zkušenost v gastronomii",
+    "back": "Zpět",
+    "generate": "Vytvořit koncept",
+    "loading": "Vytváří se...",
+    "signatureDescription": "Zde můžete vytvořit svůj podpis. (volitelné)"
+  },
+  "review": {
+    "title": "Kontrola 📄",
+    "description": "Zde je váš personalizovaný motivační dopis. Můžete si jej přečíst, a pokud se vám něco nelíbí, můžete to před vytvořením PDF jednoduše změnit. Pokud jste spokojeni, klikněte na Tisknout nebo Vytvořit PDF.",
+    "back": "Zpět",
+    "home": "Na domovskou stránku",
+    "downloadPDF": "Stáhnout PDF",
+    "print": "Tisknout",
+    "nameError": "Jméno musí mít alespoň dva znaky."
+  },
+  "progress": {
+    "link": "Odkaz",
+    "address": "Adresa",
+    "personal": "Personalizace",
+    "review": "Kontrola"
+  },
+  "settings": {
+    "settingsTitle": "Nastavení",
+    "settingsDescription": "Vyberte jazyk pro váš motivační dopis.",
+    "languageLabel": "Jazyk",
+    "saveButton": "Uložit"
+  }
+}

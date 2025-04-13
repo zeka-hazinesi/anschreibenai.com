@@ -1,0 +1,90 @@
+/* Global styles */
+@import url("https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap");
+@import "flag-icons/css/flag-icons.min.css";
+
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin: 0 auto;
+}
+
+/* Input style */
+.input-container {
+  position: relative;
+  display: flex;
+  width: 100%;
+  align-items: center;
+  flex-direction: column;
+}
+
+.textarea-personal:focus + label,
+.filled {
+  transform: translate(0, 12px) scale(0.8);
+}
+
+.textarea-personal:focus .filled {
+  box-shadow: 0 0 0 1px #3a86e8;
+}
+
+textarea:focus + label,
+.filled {
+  transform: translate(0, 12px) scale(0.8);
+}
+
+textarea:focus .filled {
+  box-shadow: 0 0 0 1px #3a86e8;
+}
+
+/* New class to handle multiline labels */
+.multiline {
+  white-space: pre-line; /* Handles newline characters to display each line separately */
+}
+
+.input-container:focus-within label {
+  transform: translate(0, 4px) scale(0.7);
+  color: #3a86e8;
+  opacity: 1;
+}
+
+.input-container .filled {
+  transform: translate(0, 4px) scale(0.7);
+}
+
+.input-container label {
+  position: absolute;
+  pointer-events: none;
+  transform: translate(0, 10px) scale(1);
+  transform-origin: top left;
+  transition: 300ms cubic-bezier(0, 0, 0.2, 1) 0ms;
+  color: #a0afc2;
+  font-size: 16px;
+  line-height: 1.5;
+  left: 16px;
+  white-space: pre-line;
+}
+
+.input-container input {
+  height: 42px;
+  width: 100%;
+  border: none;
+  padding: 18px 16px 4px 16px;
+  font-size: 16px;
+  line-height: 1;
+  outline: none;
+  box-shadow: 0 0 0 1px #a0afc2;
+  transition: 300ms cubic-bezier(0, 0, 0.2, 1) 0ms;
+}
+
+.input-container input:focus {
+  box-shadow: 0 0 0 1px #3a86e8;
+}

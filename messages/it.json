@@ -1,0 +1,103 @@
+{
+  "link": {
+    "title": "Lettera di presentazione con AI",
+    "instructions": "Inserisci il link all'annuncio di lavoro.",
+    "inputLabel": "Link all'annuncio di lavoro",
+    "proceedAddressButton": "Continua all'inserimento dell'indirizzo",
+    "generateDraft": "Crea bozza",
+    "generatePDF": "Crea PDF",
+    "processing": "Elaborazione in corso...",
+
+    "fromToSectionTitle": "Annuncio di lavoro ➡️ Lettera motivazionale",
+    "beforeText": "Dall'annuncio di lavoro",
+    "afterText": "Alla lettera motivazionale",
+
+    "comparisonSectionTitle": "Perché dovresti usare anschreibenAI?",
+    "reason1": "Nessun PDF o PDF mal formattato (Esempio)",
+    "reason2": "Nessuna firma",
+    "reason3": "I dati privati dell'indirizzo vengono trasmessi",
+    "reason4": "Nessuna modifica diretta possibile",
+    "reason5": "Necessaria esperienza nell'uso di ChatGPT",
+    "solution1": "Conforme allo standard DIN 5008",
+    "solution2": "Con firma (opzionale)",
+    "solution3": "I dati privati dell'indirizzo non escono dal browser",
+    "solution4": "La bozza può essere modificata",
+    "solution5": "Utilizzo semplicissimo senza inserimento di comandi",
+
+    "howToSectionTitle": "Come funziona anschreibenAI?",
+
+    "faqSectionTitle": "Domande frequenti",
+    "question1": "Perché non usare semplicemente ChatGPT?",
+    "question2": "Cos'è DIN 5008?",
+    "question3": "anschreibenAI è davvero gratuito?",
+    "question4": "I miei dati privati dell'indirizzo vengono utilizzati?",
+    "question5": "Quale modello viene utilizzato?",
+    "question6": "Ho altre domande!",
+    "answer1": "ChatGPT è un ottimo strumento, ma non è adatto a tutte le applicazioni. In particolare, non è ottimale per la creazione di documenti PDF. Lo standard DIN 5008 è molto specifico e richiede una formattazione precisa che ChatGPT non sempre può fornire. Con questa app, puoi assicurarti che i tuoi documenti soddisfino i requisiti dello standard DIN 5008.",
+    "answer2": "DIN 5008 è uno standard tedesco che stabilisce regole per la scrittura e la progettazione di lettere commerciali e altri documenti aziendali. Garantisce un aspetto uniforme e professionale, ad esempio nell'indirizzamento, nelle informazioni sulla data, nelle evidenziazioni e nella formattazione. Abbiamo implementato le regole più importanti in questa app in modo che tu possa concentrarti su ciò che conta davvero: il contenuto della tua lettera motivazionale.",
+    "answer3": "Sì, è completamente gratuito! Nessun costo nascosto, nessun abbonamento. Tuttavia, puoi utilizzare l'app solo 5 volte al giorno.",
+    "answer4": "I dati privati non lasciano mai il tuo browser. Questo significa: Non memorizziamo alcun dato che inserisci nell'app. I dati dell'indirizzo sono memorizzati solo localmente nel tuo browser e non vengono inviati ai nostri server. Ciò significa che i tuoi dati rimangono sicuri e privati.",
+    "answer5": "Attualmente utilizziamo Gemini Flash 2.0 come intelligenza artificiale.",
+    "answer6": "Puoi utilizzare la chat di supporto per porre ulteriori domande.",
+
+    "privacyPolicy": "Informativa sulla privacy",
+    "termsOfUse": "Termini di utilizzo",
+    "copyright": "Tutti i diritti riservati"
+  },
+  "address": {
+    "title": "Indirizzo 🏠",
+    "description": "Inserisci i tuoi dati di indirizzo. I dati vengono utilizzati solo per l'intestazione della lettera. Se non desideri fornire un indirizzo, puoi saltare questo passaggio.",
+
+    "firstName": "Nome",
+    "lastName": "Cognome",
+    "street": "Via",
+    "buildingNumber": "Numero civico",
+    "postalCode": "Codice postale",
+    "city": "Città",
+    "phone": "Telefono",
+    "email": "E-mail",
+
+    "trash": "Elimina",
+    "back": "Indietro",
+    "skip": "Salta",
+    "next": "Continua alla personalizzazione",
+
+    "firstNameError": "Il nome deve contenere almeno due caratteri.",
+    "lastNameError": "Il cognome deve contenere almeno due caratteri.",
+    "streetError": "La via deve contenere almeno due caratteri.",
+    "buildingNumberError": "Il numero civico deve contenere almeno un carattere.",
+    "postalCodeError": "Il codice postale deve contenere almeno quattro caratteri.",
+    "cityError": "La città deve contenere almeno due caratteri."
+  },
+  "personal": {
+    "title": "Personalizzazione ✏️",
+    "description": "Indica i tuoi punti di forza e altre particolarità per rendere la lettera di presentazione più interessante. (opzionale)",
+    "textareaLabel": "Racconta all'AI cosa ti rende unico.",
+    "textareaBlurred": "- Sono volontario nei vigili del fuoco\n- Ho un certificato di Photoshop\n- Ho diversi anni di esperienza nella ristorazione",
+    "back": "Indietro",
+    "generate": "Crea bozza",
+    "loading": "Creazione in corso...",
+    "signatureDescription": "Qui puoi creare la tua firma. (opzionale)"
+  },
+  "review": {
+    "title": "Revisione 📄",
+    "description": "Ecco la tua lettera motivazionale personalizzata. Puoi leggerla una volta e se c'è qualcosa che non ti piace, puoi semplicemente modificarlo prima di creare il PDF. Se sei soddisfatto, clicca su Stampa o Crea PDF.",
+    "back": "Indietro",
+    "home": "Alla pagina iniziale",
+    "downloadPDF": "Scarica PDF",
+    "print": "Stampa",
+    "nameError": "Il nome deve contenere almeno due caratteri."
+  },
+  "progress": {
+    "link": "Link",
+    "address": "Indirizzo",
+    "personal": "Personalizzazione",
+    "review": "Revisione"
+  },
+  "settings": {
+    "settingsTitle": "Impostazioni",
+    "settingsDescription": "Scegli la lingua per la tua lettera di presentazione.",
+    "languageLabel": "Lingua",
+    "saveButton": "Salva"
+  }
+}

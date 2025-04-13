@@ -1,0 +1,103 @@
+{
+  "link": {
+    "title": "Carta de presentación con AI",
+    "instructions": "Por favor, introduzca el enlace a la oferta de trabajo.",
+    "inputLabel": "Enlace a la oferta de trabajo",
+    "proceedAddressButton": "Continuar a la introducción de dirección",
+    "generateDraft": "Crear borrador",
+    "generatePDF": "Crear PDF",
+    "processing": "Procesando...",
+
+    "fromToSectionTitle": "Oferta de trabajo ➡️ Carta de motivación",
+    "beforeText": "De la oferta de trabajo",
+    "afterText": "A la carta de motivación",
+
+    "comparisonSectionTitle": "¿Por qué deberías usar anschreibenAI?",
+    "reason1": "Sin PDF o con formato deficiente (Ejemplo)",
+    "reason2": "Sin firma",
+    "reason3": "Se transmiten datos privados de dirección",
+    "reason4": "No es posible la edición directa",
+    "reason5": "Se necesita experiencia en el uso de ChatGPT",
+    "solution1": "Conforme a la norma DIN 5008",
+    "solution2": "Con firma (opcional)",
+    "solution3": "Los datos privados de dirección no salen del navegador",
+    "solution4": "El borrador puede ser editado",
+    "solution5": "Uso muy sencillo sin necesidad de introducir comandos",
+
+    "howToSectionTitle": "¿Cómo funciona anschreibenAI?",
+
+    "faqSectionTitle": "Preguntas frecuentes",
+    "question1": "¿Por qué no usar simplemente ChatGPT?",
+    "question2": "¿Qué es DIN 5008?",
+    "question3": "¿Es anschreibenAI realmente gratuito?",
+    "question4": "¿Se utilizan mis datos privados de dirección?",
+    "question5": "¿Qué modelo se utiliza?",
+    "question6": "¡Tengo más preguntas!",
+    "answer1": "ChatGPT es una herramienta fantástica, pero no es adecuada para todas las aplicaciones. En particular, no es óptima para la creación de documentos PDF. La norma DIN 5008 es muy específica y requiere un formato preciso que ChatGPT no siempre puede proporcionar. Con esta aplicación, puede asegurarse de que sus documentos cumplen con los requisitos de la norma DIN 5008.",
+    "answer2": "DIN 5008 es una norma alemana que establece reglas para la redacción y el diseño de cartas comerciales y otros documentos de negocio. Garantiza una apariencia uniforme y profesional, por ejemplo, en la dirección, la información de fecha, los resaltados y el formato. Hemos implementado las reglas más importantes en esta aplicación para que pueda centrarse en lo que realmente importa: el contenido de su carta de motivación.",
+    "answer3": "Sí, ¡es completamente gratuito! Sin cargos ocultos, sin suscripciones. Sin embargo, solo puede usar la aplicación 5 veces al día.",
+    "answer4": "Los datos privados nunca salen de su navegador. Esto significa: No almacenamos ningún dato que introduzca en la aplicación. Los datos de dirección solo se almacenan localmente en su navegador y no se envían a nuestros servidores. Esto significa que sus datos permanecen seguros y privados.",
+    "answer5": "Actualmente utilizamos Gemini Flash 2.0 como inteligencia artificial.",
+    "answer6": "Puede utilizar el chat de soporte para hacer más preguntas.",
+
+    "privacyPolicy": "Política de privacidad",
+    "termsOfUse": "Condiciones de uso",
+    "copyright": "Todos los derechos reservados"
+  },
+  "address": {
+    "title": "Dirección 🏠",
+    "description": "Por favor, introduzca sus datos de dirección. Los datos solo se utilizan para el encabezado de la carta. Si no desea proporcionar una dirección, puede omitir este paso.",
+
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "street": "Calle",
+    "buildingNumber": "Número",
+    "postalCode": "Código postal",
+    "city": "Ciudad",
+    "phone": "Teléfono",
+    "email": "Correo electrónico",
+
+    "trash": "Eliminar",
+    "back": "Atrás",
+    "skip": "Omitir",
+    "next": "Continuar a la personalización",
+
+    "firstNameError": "El nombre debe tener al menos dos caracteres.",
+    "lastNameError": "El apellido debe tener al menos dos caracteres.",
+    "streetError": "La calle debe tener al menos dos caracteres.",
+    "buildingNumberError": "El número debe tener al menos un carácter.",
+    "postalCodeError": "El código postal debe tener al menos cuatro caracteres.",
+    "cityError": "La ciudad debe tener al menos dos caracteres."
+  },
+  "personal": {
+    "title": "Personalización ✏️",
+    "description": "Por favor, indique sus puntos fuertes y otras particularidades para hacer la carta de presentación más interesante. (opcional)",
+    "textareaLabel": "Cuéntele a la IA qué le hace único.",
+    "textareaBlurred": "- Soy voluntario en los bomberos\n- Tengo un certificado de Photoshop\n- Tengo varios años de experiencia en hostelería",
+    "back": "Atrás",
+    "generate": "Crear borrador",
+    "loading": "Creando...",
+    "signatureDescription": "Aquí puede crear su firma. (opcional)"
+  },
+  "review": {
+    "title": "Revisión 📄",
+    "description": "Aquí está su carta de motivación personalizada. Puede leerla una vez y, si hay algo que no le gusta, puede cambiarlo fácilmente antes de crear el PDF. Si está satisfecho, haga clic en Imprimir o Crear PDF.",
+    "back": "Atrás",
+    "home": "A la página de inicio",
+    "downloadPDF": "Descargar PDF",
+    "print": "Imprimir",
+    "nameError": "El nombre debe tener al menos dos caracteres."
+  },
+  "progress": {
+    "link": "Enlace",
+    "address": "Dirección",
+    "personal": "Personalización",
+    "review": "Revisión"
+  },
+  "settings": {
+    "settingsTitle": "Configuración",
+    "settingsDescription": "Elija el idioma para su carta de presentación.",
+    "languageLabel": "Idioma",
+    "saveButton": "Guardar"
+  }
+}

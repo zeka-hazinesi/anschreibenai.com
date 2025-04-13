@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- Root URL -->
+  <url>
+    <loc>https://anschreibenai.com/</loc>
+    <lastmod>2025-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://anschreibenai.com/en"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://anschreibenai.com/de"/>
+  </url>
+  
+  <!-- English root -->
+  <url>
+    <loc>https://anschreibenai.com/en</loc>
+    <lastmod>2025-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://anschreibenai.com/de"/>
+  </url>
+  
+  <!-- German root -->
+  <url>
+    <loc>https://anschreibenai.com/de</loc>
+    <lastmod>2025-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://anschreibenai.com/en"/>
+  </url>
+  
+  <!-- English address page -->
+  <url>
+    <loc>https://anschreibenai.com/en/address</loc>
+    <lastmod>2025-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://anschreibenai.com/de/address"/>
+  </url>
+  
+  <!-- German address page -->
+  <url>
+    <loc>https://anschreibenai.com/de/address</loc>
+    <lastmod>2025-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://anschreibenai.com/en/address"/>
+  </url>
+  
+  <!-- English personalization page -->
+  <url>
+    <loc>https://anschreibenai.com/en/personalization</loc>
+    <lastmod>2025-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://anschreibenai.com/de/personalization"/>
+  </url>
+  
+  <!-- German personalization page -->
+  <url>
+    <loc>https://anschreibenai.com/de/personalization</loc>
+    <lastmod>2025-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://anschreibenai.com/en/personalization"/>
+  </url>
+  
+  <!-- English review page -->
+  <url>
+    <loc>https://anschreibenai.com/en/review</loc>
+    <lastmod>2025-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://anschreibenai.com/de/review"/>
+  </url>
+  
+  <!-- German review page -->
+  <url>
+    <loc>https://anschreibenai.com/de/review</loc>
+    <lastmod>2025-03-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://anschreibenai.com/en/review"/>
+  </url>
+</urlset>

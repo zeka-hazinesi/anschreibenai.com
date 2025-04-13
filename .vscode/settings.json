@@ -1,0 +1,84 @@
+{
+  // Editor
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "file",
+
+  // Search
+  "search.quickOpen.includeSymbols": false,
+  "search.seedWithNearestWord": true,
+  "search.smartCase": true,
+  "search.exclude": {
+    "node_modules": true,
+    ".git": true,
+  },
+  "search.followSymlinks": false,
+  "search.useIgnoreFiles": true,
+
+  // JavaScript
+  "prettier.enable": true,
+  "prettier.configPath": ".prettierrc",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+  },
+  "prettier.prettierPath": "./node_modules/prettier",
+
+  // TypeScript
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+  },
+
+  // JSON
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+  },
+
+  // Markdown
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.unicodeHighlight.ambiguousCharacters": true,
+    "editor.unicodeHighlight.invisibleCharacters": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.wordWrap": "on",
+    "editor.quickSuggestions": {
+      "comments": "off",
+      "strings": "off",
+      "other": "off",
+    },
+  },
+
+  // TOML
+  "[toml]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+  },
+
+  // YAML
+  "[yaml]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+  },
+
+  // Docker
+  "[dockerfile]": {
+    "editor.formatOnSave": false,
+  },
+
+  // Files
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+  },
+
+  "npm.packageManager": "bun",
+}

@@ -1,0 +1,103 @@
+{
+  "link": {
+    "title": "Surat Motivasi dengan AI",
+    "instructions": "Sila masukkan pautan ke iklan pekerjaan.",
+    "inputLabel": "Pautan ke iklan pekerjaan",
+    "proceedAddressButton": "Teruskan ke kemasukan alamat",
+    "generateDraft": "Cipta draf",
+    "generatePDF": "Cipta PDF",
+    "processing": "Sedang diproses...",
+
+    "fromToSectionTitle": "Iklan Pekerjaan ➡️ Surat Motivasi",
+    "beforeText": "Daripada iklan pekerjaan",
+    "afterText": "Kepada surat motivasi",
+
+    "comparisonSectionTitle": "Mengapa anda perlu menggunakan anschreibenAI?",
+    "reason1": "Tiada PDF atau PDF yang tidak diformat dengan baik (Contoh)",
+    "reason2": "Tiada tandatangan",
+    "reason3": "Data alamat peribadi dihantar",
+    "reason4": "Tiada pengeditan langsung yang mungkin",
+    "reason5": "Pengalaman dalam penggunaan ChatGPT diperlukan",
+    "solution1": "Mematuhi standard DIN 5008",
+    "solution2": "Dengan tandatangan (pilihan)",
+    "solution3": "Data alamat peribadi tidak meninggalkan pelayar",
+    "solution4": "Draf boleh diedit",
+    "solution5": "Sangat mudah digunakan tanpa perlu memasukkan arahan",
+
+    "howToSectionTitle": "Bagaimana anschreibenAI berfungsi?",
+
+    "faqSectionTitle": "Soalan Lazim",
+    "question1": "Mengapa tidak menggunakan ChatGPT sahaja?",
+    "question2": "Apakah DIN 5008?",
+    "question3": "Adakah anschreibenAI benar-benar percuma?",
+    "question4": "Adakah data alamat peribadi saya digunakan?",
+    "question5": "Model apa yang digunakan?",
+    "question6": "Saya mempunyai lebih banyak soalan!",
+    "answer1": "ChatGPT adalah alat yang hebat, tetapi tidak sesuai untuk semua aplikasi. Khususnya, ia tidak optimum untuk mencipta dokumen PDF. Standard DIN 5008 sangat khusus dan memerlukan pemformatan yang tepat yang tidak selalu dapat disediakan oleh ChatGPT. Dengan aplikasi ini, anda boleh memastikan bahawa dokumen anda memenuhi keperluan standard DIN 5008.",
+    "answer2": "DIN 5008 adalah standard Jerman yang menetapkan peraturan untuk menulis dan mereka bentuk surat perniagaan dan dokumen perniagaan lain. Ia memastikan penampilan yang seragam dan profesional, contohnya dalam pengalamatan, maklumat tarikh, penonjolan dan pemformatan. Kami telah melaksanakan peraturan yang paling penting dalam aplikasi ini supaya anda boleh fokus pada apa yang benar-benar penting: kandungan surat motivasi anda.",
+    "answer3": "Ya, ia benar-benar percuma! Tiada bayaran tersembunyi, tiada langganan. Walau bagaimanapun, anda hanya boleh menggunakan aplikasi 5 kali sehari.",
+    "answer4": "Data peribadi tidak pernah meninggalkan pelayar anda. Ini bermakna: Kami tidak menyimpan sebarang data yang anda masukkan ke dalam aplikasi. Data alamat hanya disimpan secara tempatan dalam pelayar anda dan tidak dihantar ke pelayan kami. Ini bermakna data anda kekal selamat dan peribadi.",
+    "answer5": "Pada masa ini, kami menggunakan Gemini Flash 2.0 sebagai kecerdasan buatan.",
+    "answer6": "Anda boleh menggunakan sembang sokongan untuk mengajukan lebih banyak soalan.",
+
+    "privacyPolicy": "Dasar Privasi",
+    "termsOfUse": "Terma Penggunaan",
+    "copyright": "Hak Cipta Terpelihara"
+  },
+  "address": {
+    "title": "Alamat 🏠",
+    "description": "Sila masukkan butiran alamat anda. Data hanya digunakan untuk pengepala surat. Jika anda tidak mahu memberikan alamat, anda boleh langkau langkah ini.",
+
+    "firstName": "Nama Pertama",
+    "lastName": "Nama Keluarga",
+    "street": "Jalan",
+    "buildingNumber": "Nombor Rumah",
+    "postalCode": "Poskod",
+    "city": "Bandar",
+    "phone": "Telefon",
+    "email": "E-mel",
+
+    "trash": "Padam",
+    "back": "Kembali",
+    "skip": "Langkau",
+    "next": "Teruskan ke Peribadikan",
+
+    "firstNameError": "Nama pertama mesti sekurang-kurangnya dua aksara.",
+    "lastNameError": "Nama keluarga mesti sekurang-kurangnya dua aksara.",
+    "streetError": "Jalan mesti sekurang-kurangnya dua aksara.",
+    "buildingNumberError": "Nombor rumah mesti sekurang-kurangnya satu aksara.",
+    "postalCodeError": "Poskod mesti sekurang-kurangnya empat aksara.",
+    "cityError": "Bandar mesti sekurang-kurangnya dua aksara."
+  },
+  "personal": {
+    "title": "Peribadikan ✏️",
+    "description": "Sila nyatakan kekuatan dan ciri-ciri khas anda yang lain untuk menjadikan surat motivasi lebih menarik. (pilihan)",
+    "textareaLabel": "Beritahu AI apa yang menjadikan anda unik.",
+    "textareaBlurred": "- Saya berkhidmat dengan Pasukan Bomba Sukarela\n- Saya mempunyai sijil Photoshop\n- Saya mempunyai pengalaman beberapa tahun dalam industri perkhidmatan makanan",
+    "back": "Kembali",
+    "generate": "Cipta draf",
+    "loading": "Sedang dicipta...",
+    "signatureDescription": "Di sini anda boleh mencipta tandatangan anda. (pilihan)"
+  },
+  "review": {
+    "title": "Semak Semula 📄",
+    "description": "Ini adalah surat motivasi peribadi anda. Anda boleh membacanya sekali dan jika ada sesuatu yang anda tidak suka, anda boleh mengubahnya dengan mudah sebelum mencipta PDF. Jika anda berpuas hati, klik pada Cetak atau Cipta PDF.",
+    "back": "Kembali",
+    "home": "Ke halaman utama",
+    "downloadPDF": "Muat turun PDF",
+    "print": "Cetak",
+    "nameError": "Nama mesti sekurang-kurangnya dua aksara."
+  },
+  "progress": {
+    "link": "Pautan",
+    "address": "Alamat",
+    "personal": "Peribadikan",
+    "review": "Semak Semula"
+  },
+  "settings": {
+    "settingsTitle": "Tetapan",
+    "settingsDescription": "Pilih bahasa untuk surat motivasi anda.",
+    "languageLabel": "Bahasa",
+    "saveButton": "Simpan"
+  }
+}

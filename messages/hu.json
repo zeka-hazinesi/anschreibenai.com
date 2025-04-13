@@ -1,0 +1,103 @@
+{
+  "link": {
+    "title": "Motivációs levél AI-val",
+    "instructions": "Kérjük, adja meg az álláshirdetés linkjét.",
+    "inputLabel": "Álláshirdetés linkje",
+    "proceedAddressButton": "Tovább a cím megadásához",
+    "generateDraft": "Vázlat létrehozása",
+    "generatePDF": "PDF létrehozása",
+    "processing": "Feldolgozás...",
+
+    "fromToSectionTitle": "Álláshirdetés ➡️ Motivációs levél",
+    "beforeText": "Az álláshirdetésből",
+    "afterText": "A motivációs levélhez",
+
+    "comparisonSectionTitle": "Miért érdemes az anschreibenAI-t használni?",
+    "reason1": "Nincs vagy rosszul formázott PDF (Példa)",
+    "reason2": "Nincs aláírás",
+    "reason3": "Személyes címadatok továbbítása történik",
+    "reason4": "Közvetlen szerkesztés nem lehetséges",
+    "reason5": "ChatGPT használatában tapasztalat szükséges",
+    "solution1": "DIN 5008 szabványnak megfelelő",
+    "solution2": "Aláírással (opcionális)",
+    "solution3": "A személyes címadatok nem hagyják el a böngészőt",
+    "solution4": "A vázlat szerkeszthető",
+    "solution5": "Gyerekjáték használni parancsok megadása nélkül",
+
+    "howToSectionTitle": "Hogyan működik az anschreibenAI?",
+
+    "faqSectionTitle": "Gyakran Ismételt Kérdések",
+    "question1": "Miért ne használjunk egyszerűen ChatGPT-t?",
+    "question2": "Mi az a DIN 5008?",
+    "question3": "Valóban ingyenes az anschreibenAI?",
+    "question4": "Felhasználják a személyes címadataimat?",
+    "question5": "Milyen modellt használnak?",
+    "question6": "További kérdéseim vannak!",
+    "answer1": "A ChatGPT nagyszerű eszköz, de nem minden alkalmazásra alkalmas. Különösen PDF-dokumentumok létrehozására nem optimális. A DIN 5008 szabvány nagyon specifikus, és olyan pontos formázást igényel, amelyet a ChatGPT nem mindig tud biztosítani. Ezzel az alkalmazással biztosíthatja, hogy dokumentumai megfelelnek a DIN 5008 szabvány követelményeinek.",
+    "answer2": "A DIN 5008 egy német szabvány, amely szabályokat határoz meg az üzleti levelek és egyéb üzleti dokumentumok írására és tervezésére vonatkozóan. Egységes, professzionális megjelenést biztosít, például a címzés, dátuminformációk, kiemelések és formázás terén. Ebben az alkalmazásban implementáltuk a legfontosabb szabályokat, így Ön arra koncentrálhat, ami igazán fontos: a motivációs levele tartalmára.",
+    "answer3": "Igen, teljesen ingyenes! Nincsenek rejtett költségek, nincsenek előfizetések. Az alkalmazást azonban csak napi 5 alkalommal használhatja.",
+    "answer4": "A személyes adatok soha nem hagyják el a böngészőjét. Ez azt jelenti: Nem tárolunk semmilyen adatot, amit Ön az alkalmazásba bevitt. A címadatokat csak helyileg, az Ön böngészőjében tároljuk, és nem küldjük el a szervereinkre. Ez azt jelenti, hogy adatai biztonságban és privát módon maradnak.",
+    "answer5": "Jelenleg a Gemini Flash 2.0-t használjuk mesterséges intelligenciaként.",
+    "answer6": "A támogatási chatet használhatja további kérdések feltevésére.",
+
+    "privacyPolicy": "Adatvédelmi irányelvek",
+    "termsOfUse": "Használati feltételek",
+    "copyright": "Minden jog fenntartva"
+  },
+  "address": {
+    "title": "Cím 🏠",
+    "description": "Kérjük, adja meg a címadatait. Az adatokat csak a levél fejlécéhez használjuk. Ha nem szeretne címet megadni, kihagyhatja ezt a lépést.",
+
+    "firstName": "Keresztnév",
+    "lastName": "Vezetéknév",
+    "street": "Utca",
+    "buildingNumber": "Házszám",
+    "postalCode": "Irányítószám",
+    "city": "Város",
+    "phone": "Telefon",
+    "email": "E-mail",
+
+    "trash": "Törlés",
+    "back": "Vissza",
+    "skip": "Kihagyás",
+    "next": "Tovább a személyre szabáshoz",
+
+    "firstNameError": "A keresztnévnek legalább két karakterből kell állnia.",
+    "lastNameError": "A vezetéknévnek legalább két karakterből kell állnia.",
+    "streetError": "Az utcának legalább két karakterből kell állnia.",
+    "buildingNumberError": "A házszámnak legalább egy karakterből kell állnia.",
+    "postalCodeError": "Az irányítószámnak legalább négy karakterből kell állnia.",
+    "cityError": "A városnak legalább két karakterből kell állnia."
+  },
+  "personal": {
+    "title": "Személyre szabás ✏️",
+    "description": "Kérjük, adja meg erősségeit és egyéb különlegességeit, hogy a motivációs levél érdekesebb legyen. (opcionális)",
+    "textareaLabel": "Mondja el az AI-nak, mi teszi Önt egyedivé.",
+    "textareaBlurred": "- Önkéntes tűzoltóként tevékenykedem\n- Photoshop tanúsítvánnyal rendelkezem\n- Több éves tapasztalatom van a vendéglátásban",
+    "back": "Vissza",
+    "generate": "Vázlat létrehozása",
+    "loading": "Létrehozás...",
+    "signatureDescription": "Itt létrehozhatja az aláírását. (opcionális)"
+  },
+  "review": {
+    "title": "Áttekintés 📄",
+    "description": "Itt van az Ön személyre szabott motivációs levele. Egyszer elolvashatja, és ha van valami, ami nem tetszik, a PDF létrehozása előtt egyszerűen módosíthatja. Ha elégedett, kattintson a Nyomtatás vagy a PDF létrehozása gombra.",
+    "back": "Vissza",
+    "home": "A kezdőlapra",
+    "downloadPDF": "PDF letöltése",
+    "print": "Nyomtatás",
+    "nameError": "A névnek legalább két karakterből kell állnia."
+  },
+  "progress": {
+    "link": "Link",
+    "address": "Cím",
+    "personal": "Személyre szabás",
+    "review": "Áttekintés"
+  },
+  "settings": {
+    "settingsTitle": "Beállítások",
+    "settingsDescription": "Válassza ki a motivációs levél nyelvét.",
+    "languageLabel": "Nyelv",
+    "saveButton": "Mentés"
+  }
+}

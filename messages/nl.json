@@ -1,0 +1,103 @@
+{
+  "link": {
+    "title": "Motivatiebrief met AI",
+    "instructions": "Voer de link naar de vacature in.",
+    "inputLabel": "Link naar vacature",
+    "proceedAddressButton": "Doorgaan naar adresinvoer",
+    "generateDraft": "Concept maken",
+    "generatePDF": "PDF maken",
+    "processing": "Wordt verwerkt...",
+
+    "fromToSectionTitle": "Vacature ➡️ Motivatiebrief",
+    "beforeText": "Van de vacature",
+    "afterText": "Naar de motivatiebrief",
+
+    "comparisonSectionTitle": "Waarom zou je anschreibenAI gebruiken?",
+    "reason1": "Geen of slecht geformatteerde PDF (Voorbeeld)",
+    "reason2": "Geen handtekening",
+    "reason3": "Privé-adresgegevens worden verzonden",
+    "reason4": "Geen directe bewerking mogelijk",
+    "reason5": "Ervaring met ChatGPT noodzakelijk",
+    "solution1": "Conform DIN 5008-norm",
+    "solution2": "Met handtekening (optioneel)",
+    "solution3": "Privé-adresgegevens verlaten de browser niet",
+    "solution4": "Concept kan worden bewerkt",
+    "solution5": "Kinderlijk eenvoudig te gebruiken zonder opdrachten in te voeren",
+
+    "howToSectionTitle": "Hoe werkt anschreibenAI?",
+
+    "faqSectionTitle": "Veelgestelde vragen",
+    "question1": "Waarom niet gewoon ChatGPT gebruiken?",
+    "question2": "Wat is DIN 5008?",
+    "question3": "Is anschreibenAI echt gratis?",
+    "question4": "Worden mijn privé-adresgegevens gebruikt?",
+    "question5": "Welk model wordt gebruikt?",
+    "question6": "Ik heb meer vragen!",
+    "answer1": "ChatGPT is een geweldige tool, maar niet geschikt voor alle toepassingen. Met name voor het maken van PDF-documenten is het niet optimaal. De DIN 5008-norm is zeer specifiek en vereist een precieze opmaak die ChatGPT niet altijd kan bieden. Met deze app kunt u ervoor zorgen dat uw documenten voldoen aan de eisen van de DIN 5008-norm.",
+    "answer2": "DIN 5008 is een Duitse norm die regels vastlegt voor het schrijven en ontwerpen van zakelijke brieven en andere zakelijke documenten. Het zorgt voor een uniform, professioneel uiterlijk, bijvoorbeeld bij adressering, datumgegevens, markeringen en opmaak. We hebben de belangrijkste regels in deze app geïmplementeerd, zodat u zich kunt concentreren op wat echt belangrijk is: de inhoud van uw motivatiebrief.",
+    "answer3": "Ja, het is volledig gratis! Geen verborgen kosten, geen abonnementen. U kunt de app echter slechts 5 keer per dag gebruiken.",
+    "answer4": "De privégegevens verlaten nooit uw browser. Dit betekent: Wij slaan geen gegevens op die u in de app invoert. De adresgegevens worden alleen lokaal in uw browser opgeslagen en niet naar onze servers verzonden. Dit betekent dat uw gegevens veilig en privé blijven.",
+    "answer5": "Momenteel gebruiken we Gemini Flash 2.0 als kunstmatige intelligentie.",
+    "answer6": "U kunt de ondersteuningschat gebruiken om meer vragen te stellen.",
+
+    "privacyPolicy": "Privacybeleid",
+    "termsOfUse": "Gebruiksvoorwaarden",
+    "copyright": "Alle rechten voorbehouden"
+  },
+  "address": {
+    "title": "Adres 🏠",
+    "description": "Voer uw adresgegevens in. De gegevens worden alleen gebruikt voor het briefhoofd. Als u geen adres wilt opgeven, kunt u deze stap overslaan.",
+
+    "firstName": "Voornaam",
+    "lastName": "Achternaam",
+    "street": "Straat",
+    "buildingNumber": "Huisnummer",
+    "postalCode": "Postcode",
+    "city": "Plaats",
+    "phone": "Telefoon",
+    "email": "E-mail",
+
+    "trash": "Verwijderen",
+    "back": "Terug",
+    "skip": "Overslaan",
+    "next": "Doorgaan naar personalisatie",
+
+    "firstNameError": "De voornaam moet minimaal twee tekens lang zijn.",
+    "lastNameError": "De achternaam moet minimaal twee tekens lang zijn.",
+    "streetError": "De straat moet minimaal twee tekens lang zijn.",
+    "buildingNumberError": "Het huisnummer moet minimaal één teken lang zijn.",
+    "postalCodeError": "De postcode moet minimaal vier tekens lang zijn.",
+    "cityError": "De plaats moet minimaal twee tekens lang zijn."
+  },
+  "personal": {
+    "title": "Personalisatie ✏️",
+    "description": "Geef uw sterke punten en andere bijzonderheden aan om de motivatiebrief interessanter te maken. (optioneel)",
+    "textareaLabel": "Vertel de AI wat u uniek maakt.",
+    "textareaBlurred": "- Ik ben actief bij de vrijwillige brandweer\n- Ik heb een Photoshop-certificaat\n- Ik heb jarenlange ervaring in de horeca",
+    "back": "Terug",
+    "generate": "Concept maken",
+    "loading": "Wordt gemaakt...",
+    "signatureDescription": "Hier kunt u uw handtekening maken. (optioneel)"
+  },
+  "review": {
+    "title": "Beoordeling 📄",
+    "description": "Hier is uw gepersonaliseerde motivatiebrief. U kunt deze eenmaal doorlezen en als er iets is dat u niet bevalt, kunt u dit eenvoudig wijzigen voordat u de PDF maakt. Als u tevreden bent, klikt u op Afdrukken of PDF maken.",
+    "back": "Terug",
+    "home": "Naar de startpagina",
+    "downloadPDF": "PDF downloaden",
+    "print": "Afdrukken",
+    "nameError": "De naam moet minimaal twee tekens lang zijn."
+  },
+  "progress": {
+    "link": "Link",
+    "address": "Adres",
+    "personal": "Personalisatie",
+    "review": "Beoordeling"
+  },
+  "settings": {
+    "settingsTitle": "Instellingen",
+    "settingsDescription": "Kies de taal voor uw motivatiebrief.",
+    "languageLabel": "Taal",
+    "saveButton": "Opslaan"
+  }
+}

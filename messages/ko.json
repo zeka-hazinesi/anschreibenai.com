@@ -1,0 +1,103 @@
+{
+  "link": {
+    "title": "AI를 활용한 자기소개서",
+    "instructions": "채용 공고 링크를 입력해 주세요.",
+    "inputLabel": "채용 공고 링크",
+    "proceedAddressButton": "주소 입력으로 계속하기",
+    "generateDraft": "초안 만들기",
+    "generatePDF": "PDF 만들기",
+    "processing": "처리 중...",
+
+    "fromToSectionTitle": "채용 공고 ➡️ 자기소개서",
+    "beforeText": "채용 공고에서",
+    "afterText": "자기소개서로",
+
+    "comparisonSectionTitle": "왜 anschreibenAI를 사용해야 할까요?",
+    "reason1": "PDF가 없거나 형식이 잘못됨 (예시)",
+    "reason2": "서명 없음",
+    "reason3": "개인 주소 데이터가 전송됨",
+    "reason4": "직접 편집 불가능",
+    "reason5": "ChatGPT 사용 경험 필요",
+    "solution1": "DIN 5008 표준 준수",
+    "solution2": "서명 포함 (선택사항)",
+    "solution3": "개인 주소 데이터가 브라우저를 떠나지 않음",
+    "solution4": "초안 편집 가능",
+    "solution5": "명령어 입력 없이 아주 쉽게 사용 가능",
+
+    "howToSectionTitle": "anschreibenAI는 어떻게 작동하나요?",
+
+    "faqSectionTitle": "자주 묻는 질문",
+    "question1": "왜 ChatGPT를 그냥 사용하지 않나요?",
+    "question2": "DIN 5008이란 무엇인가요?",
+    "question3": "anschreibenAI는 정말로 무료인가요?",
+    "question4": "개인 주소 데이터가 사용되나요?",
+    "question5": "어떤 모델이 사용되나요?",
+    "question6": "더 궁금한 점이 있어요!",
+    "answer1": "ChatGPT는 훌륭한 도구이지만 모든 용도에 적합하지는 않습니다. 특히 PDF 문서 생성에는 최적화되어 있지 않습니다. DIN 5008 표준은 매우 구체적이며 ChatGPT가 항상 제공할 수 없는 정확한 형식을 필요로 합니다. 이 앱을 사용하면 문서가 DIN 5008 표준 요구사항을 충족하는지 확인할 수 있습니다.",
+    "answer2": "DIN 5008은 비즈니스 편지 및 기타 비즈니스 문서 작성과 디자인에 관한 규칙을 설정하는 독일 표준입니다. 주소 작성, 날짜 정보, 강조 표시 및 서식 등에서 일관된 전문적인 모습을 보장합니다. 저희는 이 앱에서 가장 중요한 규칙들을 구현했으므로 정말 중요한 것, 즉 자기소개서의 내용에 집중할 수 있습니다.",
+    "answer3": "네, 완전 무료입니다! 숨겨진 비용이나 구독료가 없습니다. 단, 앱은 하루에 5번만 사용할 수 있습니다.",
+    "answer4": "개인 데이터는 브라우저를 절대 떠나지 않습니다. 즉, 앱에 입력한 데이터를 저장하지 않습니다. 주소 데이터는 브라우저에 로컬로만 저장되며 서버로 전송되지 않습니다. 이는 귀하의 데이터가 안전하고 개인적으로 유지된다는 것을 의미합니다.",
+    "answer5": "현재 인공지능으로 Gemini Flash 2.0을 사용하고 있습니다.",
+    "answer6": "추가 질문이 있으시면 지원 채팅을 이용하실 수 있습니다.",
+
+    "privacyPolicy": "개인정보 처리방침",
+    "termsOfUse": "이용약관",
+    "copyright": "모든 권리 보유"
+  },
+  "address": {
+    "title": "주소 🏠",
+    "description": "주소 정보를 입력해 주세요. 데이터는 편지 헤더에만 사용됩니다. 주소를 제공하지 않으려면 이 단계를 건너뛸 수 있습니다.",
+
+    "firstName": "이름",
+    "lastName": "성",
+    "street": "도로명",
+    "buildingNumber": "건물 번호",
+    "postalCode": "우편번호",
+    "city": "도시",
+    "phone": "전화번호",
+    "email": "이메일",
+
+    "trash": "삭제",
+    "back": "뒤로",
+    "skip": "건너뛰기",
+    "next": "개인화로 계속하기",
+
+    "firstNameError": "이름은 최소 두 글자 이상이어야 합니다.",
+    "lastNameError": "성은 최소 두 글자 이상이어야 합니다.",
+    "streetError": "도로명은 최소 두 글자 이상이어야 합니다.",
+    "buildingNumberError": "건물 번호는 최소 한 글자 이상이어야 합니다.",
+    "postalCodeError": "우편번호는 최소 네 글자 이상이어야 합니다.",
+    "cityError": "도시명은 최소 두 글자 이상이어야 합니다."
+  },
+  "personal": {
+    "title": "개인화 ✏️",
+    "description": "자기소개서를 더 흥미롭게 만들기 위해 귀하의 강점과 기타 특징을 입력해 주세요. (선택사항)",
+    "textareaLabel": "AI에게 귀하를 독특하게 만드는 것이 무엇인지 알려주세요.",
+    "textareaBlurred": "- 소방대에서 자원봉사를 하고 있습니다\n- Photoshop 자격증을 보유하고 있습니다\n- 외식업계에서 수년간의 경험이 있습니다",
+    "back": "뒤로",
+    "generate": "초안 만들기",
+    "loading": "생성 중...",
+    "signatureDescription": "여기서 서명을 만들 수 있습니다. (선택사항)"
+  },
+  "review": {
+    "title": "검토 📄",
+    "description": "여기 귀하의 개인화된 자기소개서가 있습니다. 한 번 읽어보시고 마음에 들지 않는 부분이 있으면 PDF를 만들기 전에 쉽게 변경할 수 있습니다. 만족하시면 인쇄 또는 PDF 만들기를 클릭하세요.",
+    "back": "뒤로",
+    "home": "홈페이지로",
+    "downloadPDF": "PDF 다운로드",
+    "print": "인쇄",
+    "nameError": "이름은 최소 두 글자 이상이어야 합니다."
+  },
+  "progress": {
+    "link": "링크",
+    "address": "주소",
+    "personal": "개인화",
+    "review": "검토"
+  },
+  "settings": {
+    "settingsTitle": "설정",
+    "settingsDescription": "자기소개서 언어를 선택하세요.",
+    "languageLabel": "언어",
+    "saveButton": "저장"
+  }
+}

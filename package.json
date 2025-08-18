@@ -12,7 +12,7 @@
     "prepare": "husky"
   },
   "dependencies": {
-    "@ai-sdk/google": "^1.2.14",
+    "@ai-sdk/google": "^2.0.6",
     "@dotlottie/react-player": "^1.6.19",
     "@hookform/resolvers": "^5.0.1",
     "@radix-ui/react-accordion": "^1.2.8",
